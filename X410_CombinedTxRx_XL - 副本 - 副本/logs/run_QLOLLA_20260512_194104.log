@@ -1,0 +1,948 @@
+Run log file: C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\logs\run_QLOLLA_20260512_194104.log
+Algorithm mode: QLOLLA
+Stable loopback point | TX=0 dB RX=45 dB | strict real-decode mode
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.439e-02, Peak=3.301e-01
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.92dB
+
+  DataBitrate (Mbps): 3.32
+ack
+new MCS = 10
+Iter 1 | fb=ack | next: MCS=10 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.094e-01, Peak=3.958e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 6.17(Mbps)
+  A-MPDU deaggregation unsuccessful 
+new MCS = 11
+arq
+Iter 2 | fb=arq | next: MCS=11 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.200e-01, Peak=3.667e-01
+ RXTIME of packet 1: 212us
+ Databitrate of packet 1: 88.93(Mbps)
+  A-MPDU deaggregation unsuccessful 
+new MCS = 11
+arq
+Iter 3 | fb=arq | next: MCS=11 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.200e-01, Peak=3.659e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 6.86(Mbps)
+  A-MPDU deaggregation unsuccessful 
+new MCS = 10
+arq
+Iter 4 | fb=arq | next: MCS=10 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.192e-01, Peak=3.661e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 6.17(Mbps)
+  A-MPDU deaggregation unsuccessful 
+new MCS = 10
+arq
+Iter 5 | fb=arq | next: MCS=10 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.192e-01, Peak=3.626e-01
+** No packet detected(UN) **
+new MCS = 10
+arq
+Iter 6 | fb=arq | next: MCS=10 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.192e-01, Peak=3.603e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 6.17(Mbps)
+  A-MPDU deaggregation unsuccessful 
+new MCS = 9
+arq
+Iter 7 | fb=arq | next: MCS=9 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.122e-01, Peak=3.327e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 5.49(Mbps)
+  A-MPDU deaggregation unsuccessful 
+new MCS = 9
+arq
+Iter 8 | fb=arq | next: MCS=9 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.123e-01, Peak=3.336e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 5.49(Mbps)
+  A-MPDU deaggregation unsuccessful 
+new MCS = 8
+arq
+Iter 9 | fb=arq | next: MCS=8 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.117e-01, Peak=3.713e-01
+ RXTIME of packet 1: 276us
+ Databitrate of packet 1: 68.17(Mbps)
+  A-MPDU deaggregation unsuccessful 
+new MCS = 8
+arq
+Iter 10 | fb=arq | next: MCS=8 AMPDU=1 BWdec=2
+---- Progress 10/100 | current MCS=8 AMPDU=1 BWdec=2 ----
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.117e-01, Peak=3.712e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 10.06(Mbps)
+  A-MPDU deaggregation unsuccessful 
+new MCS = 7
+arq
+Iter 11 | fb=arq | next: MCS=7 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.133e-01, Peak=3.486e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 8.34(Mbps)
+  A-MPDU deaggregation unsuccessful 
+new MCS = 6
+arq
+Iter 12 | fb=arq | next: MCS=6 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.178e-01, Peak=3.782e-01
+** No packet detected **
+new MCS = 6
+arq
+Iter 13 | fb=arq | next: MCS=6 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.178e-01, Peak=3.781e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 7.43(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.57dB
+
+  DataBitrate (Mbps): 7.43
+ack
+new MCS = 5
+Iter 14 | fb=ack | next: MCS=5 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.056e-01, Peak=3.836e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 6.63(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=37.20dB
+
+  DataBitrate (Mbps): 6.63
+ack
+new MCS = 5
+Iter 15 | fb=ack | next: MCS=5 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.056e-01, Peak=3.805e-01
+[警告: The L-SIG check failed.] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('coder.internal.warning', 'C:\Users\welcome\Desktop\R2025b\toolbox\shared\coder\coder\lib\+coder\+internal\warning.m', 8)" style="font-weight:bold">coder.internal.warning</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\R2025b\toolbox\shared\coder\coder\lib\+coder\+internal\warning.m',8,0)">第 8 行</a>)
+位置: <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('wlanFormatDetect', 'C:\Users\welcome\Desktop\R2025b\toolbox\wlan\wlan\wlanFormatDetect.m', 250)" style="font-weight:bold">wlanFormatDetect</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\R2025b\toolbox\wlan\wlan\wlanFormatDetect.m',250,0)">第 250 行</a>)
+位置: <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('HEWLANDataRecovery', 'C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\HEWLANDataRecovery.m', 137)" style="font-weight:bold">HEWLANDataRecovery</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\HEWLANDataRecovery.m',137,0)">第 137 行</a>)
+位置: <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('X410_runSingleHost_DualRole_AARF', 'C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\X410_runSingleHost_DualRole_AARF.m', 255)" style="font-weight:bold">X410_runSingleHost_DualRole_AARF</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\X410_runSingleHost_DualRole_AARF.m',255,0)">第 255 行</a>)] 
+** wrong target packet detected
+new MCS = 5
+arq
+Iter 16 | fb=arq | next: MCS=5 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.056e-01, Peak=3.820e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 6.63(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.97dB
+
+  DataBitrate (Mbps): 6.63
+ack
+new MCS = 4
+Iter 17 | fb=ack | next: MCS=4 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.189e-01, Peak=4.041e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 7.43(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=37.87dB
+
+  DataBitrate (Mbps): 7.43
+ack
+new MCS = 4
+Iter 18 | fb=ack | next: MCS=4 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.189e-01, Peak=4.051e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 7.43(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.89dB
+
+  DataBitrate (Mbps): 7.43
+ack
+new MCS = 3
+Iter 19 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.148e-01, Peak=3.789e-01
+ RXTIME of packet 1: 708us
+ Databitrate of packet 1: 26.51(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.48dB
+
+  DataBitrate (Mbps): 26.51
+ack
+new MCS = 3
+Iter 20 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+---- Progress 20/100 | current MCS=3 AMPDU=1 BWdec=2 ----
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.148e-01, Peak=3.801e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.49dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 3
+Iter 21 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.149e-01, Peak=3.787e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.49dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 3
+Iter 22 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.149e-01, Peak=3.817e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.72dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 3
+Iter 23 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.149e-01, Peak=3.839e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.86dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 3
+Iter 24 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.148e-01, Peak=3.801e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=39.43dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 3
+Iter 25 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.148e-01, Peak=3.802e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=39.74dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 3
+Iter 26 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.148e-01, Peak=3.800e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=39.20dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 3
+Iter 27 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.149e-01, Peak=3.792e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=39.48dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 3
+Iter 28 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.148e-01, Peak=3.823e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.98dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 3
+Iter 29 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.148e-01, Peak=3.782e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.88dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 3
+Iter 30 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+---- Progress 30/100 | current MCS=3 AMPDU=1 BWdec=2 ----
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.148e-01, Peak=3.800e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.68dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 3
+Iter 31 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.148e-01, Peak=3.789e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=39.43dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 3
+Iter 32 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.149e-01, Peak=3.789e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=39.06dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 3
+Iter 33 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.148e-01, Peak=3.814e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.98dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 3
+Iter 34 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.148e-01, Peak=3.810e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=39.07dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 3
+Iter 35 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.148e-01, Peak=3.775e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=39.16dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 3
+Iter 36 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.148e-01, Peak=3.791e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.61dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 3
+Iter 37 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.148e-01, Peak=3.789e-01
+ RXTIME of packet 1: 708us
+ Databitrate of packet 1: 26.51(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.02dB
+
+  DataBitrate (Mbps): 26.51
+ack
+new MCS = 3
+Iter 38 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.148e-01, Peak=3.763e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=39.01dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 4
+Iter 39 | fb=ack | next: MCS=4 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.248e-01, Peak=4.004e-01
+[警告: The L-SIG check failed.] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('coder.internal.warning', 'C:\Users\welcome\Desktop\R2025b\toolbox\shared\coder\coder\lib\+coder\+internal\warning.m', 8)" style="font-weight:bold">coder.internal.warning</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\R2025b\toolbox\shared\coder\coder\lib\+coder\+internal\warning.m',8,0)">第 8 行</a>)
+位置: <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('wlanFormatDetect', 'C:\Users\welcome\Desktop\R2025b\toolbox\wlan\wlan\wlanFormatDetect.m', 250)" style="font-weight:bold">wlanFormatDetect</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\R2025b\toolbox\wlan\wlan\wlanFormatDetect.m',250,0)">第 250 行</a>)
+位置: <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('HEWLANDataRecovery', 'C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\HEWLANDataRecovery.m', 137)" style="font-weight:bold">HEWLANDataRecovery</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\HEWLANDataRecovery.m',137,0)">第 137 行</a>)
+位置: <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('X410_runSingleHost_DualRole_AARF', 'C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\X410_runSingleHost_DualRole_AARF.m', 255)" style="font-weight:bold">X410_runSingleHost_DualRole_AARF</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\X410_runSingleHost_DualRole_AARF.m',255,0)">第 255 行</a>)] 
+** wrong target packet detected
+new MCS = 4
+arq
+Iter 40 | fb=arq | next: MCS=4 AMPDU=1 BWdec=2
+---- Progress 40/100 | current MCS=4 AMPDU=1 BWdec=2 ----
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.248e-01, Peak=3.997e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 7.43(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=41.09dB
+
+  DataBitrate (Mbps): 7.43
+ack
+new MCS = 5
+Iter 41 | fb=ack | next: MCS=5 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.173e-01, Peak=3.536e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 6.63(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.73dB
+
+  DataBitrate (Mbps): 6.63
+ack
+new MCS = 3
+Iter 42 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.083e-01, Peak=3.664e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.02dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 3
+Iter 43 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.083e-01, Peak=3.588e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.14dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 3
+Iter 44 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.083e-01, Peak=3.607e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.31dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 3
+Iter 45 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.083e-01, Peak=3.646e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=37.05dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 3
+Iter 46 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.083e-01, Peak=3.658e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.49dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 4
+Iter 47 | fb=ack | next: MCS=4 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.125e-01, Peak=3.599e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 7.43(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.49dB
+
+  DataBitrate (Mbps): 7.43
+ack
+new MCS = 3
+Iter 48 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.129e-01, Peak=4.097e-01
+[警告: The L-SIG check failed.] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('coder.internal.warning', 'C:\Users\welcome\Desktop\R2025b\toolbox\shared\coder\coder\lib\+coder\+internal\warning.m', 8)" style="font-weight:bold">coder.internal.warning</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\R2025b\toolbox\shared\coder\coder\lib\+coder\+internal\warning.m',8,0)">第 8 行</a>)
+位置: <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('wlanFormatDetect', 'C:\Users\welcome\Desktop\R2025b\toolbox\wlan\wlan\wlanFormatDetect.m', 250)" style="font-weight:bold">wlanFormatDetect</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\R2025b\toolbox\wlan\wlan\wlanFormatDetect.m',250,0)">第 250 行</a>)
+位置: <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('HEWLANDataRecovery', 'C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\HEWLANDataRecovery.m', 137)" style="font-weight:bold">HEWLANDataRecovery</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\HEWLANDataRecovery.m',137,0)">第 137 行</a>)
+位置: <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('X410_runSingleHost_DualRole_AARF', 'C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\X410_runSingleHost_DualRole_AARF.m', 255)" style="font-weight:bold">X410_runSingleHost_DualRole_AARF</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\X410_runSingleHost_DualRole_AARF.m',255,0)">第 255 行</a>)] 
+** wrong target packet detected
+new MCS = 3
+arq
+Iter 49 | fb=arq | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.129e-01, Peak=4.081e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=40.02dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 4
+Iter 50 | fb=ack | next: MCS=4 AMPDU=1 BWdec=2
+---- Progress 50/100 | current MCS=4 AMPDU=1 BWdec=2 ----
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.241e-02, Peak=3.330e-01
+** wrong target packet detected
+new MCS = 4
+arq
+Iter 51 | fb=arq | next: MCS=4 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.241e-02, Peak=3.321e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 7.43(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.96dB
+
+  DataBitrate (Mbps): 7.43
+ack
+new MCS = 4
+Iter 52 | fb=ack | next: MCS=4 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.244e-02, Peak=3.352e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 7.43(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=40.24dB
+
+  DataBitrate (Mbps): 7.43
+ack
+new MCS = 5
+Iter 53 | fb=ack | next: MCS=5 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.199e-01, Peak=3.670e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 6.63(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=37.47dB
+
+  DataBitrate (Mbps): 6.63
+ack
+new MCS = 3
+Iter 54 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.115e-01, Peak=3.672e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.46dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 3
+Iter 55 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.115e-01, Peak=3.710e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.65dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 3
+Iter 56 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.115e-01, Peak=3.693e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=37.33dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 3
+Iter 57 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.115e-01, Peak=3.699e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.87dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 3
+Iter 58 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.115e-01, Peak=3.686e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.81dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 3
+Iter 59 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.115e-01, Peak=3.696e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=37.52dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 4
+Iter 60 | fb=ack | next: MCS=4 AMPDU=1 BWdec=2
+---- Progress 60/100 | current MCS=4 AMPDU=1 BWdec=2 ----
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.092e-01, Peak=3.734e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 7.43(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.45dB
+
+  DataBitrate (Mbps): 7.43
+ack
+new MCS = 4
+Iter 61 | fb=ack | next: MCS=4 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.092e-01, Peak=3.723e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 7.43(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.41dB
+
+  DataBitrate (Mbps): 7.43
+ack
+new MCS = 4
+Iter 62 | fb=ack | next: MCS=4 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.092e-01, Peak=3.750e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 7.43(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.03dB
+
+  DataBitrate (Mbps): 7.43
+ack
+new MCS = 4
+Iter 63 | fb=ack | next: MCS=4 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.092e-01, Peak=3.784e-01
+ RXTIME of packet 1: 484us
+ Databitrate of packet 1: 38.63(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=37.23dB
+
+  DataBitrate (Mbps): 38.63
+ack
+new MCS = 4
+Iter 64 | fb=ack | next: MCS=4 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.092e-01, Peak=3.713e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 7.43(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=37.83dB
+
+  DataBitrate (Mbps): 7.43
+ack
+new MCS = 4
+Iter 65 | fb=ack | next: MCS=4 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.092e-01, Peak=3.706e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 7.43(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=37.95dB
+
+  DataBitrate (Mbps): 7.43
+ack
+new MCS = 4
+Iter 66 | fb=ack | next: MCS=4 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.092e-01, Peak=3.760e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 7.43(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=39.03dB
+
+  DataBitrate (Mbps): 7.43
+ack
+new MCS = 5
+Iter 67 | fb=ack | next: MCS=5 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.178e-01, Peak=3.768e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 6.63(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.44dB
+
+  DataBitrate (Mbps): 6.63
+ack
+new MCS = 3
+Iter 68 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.116e-01, Peak=3.720e-01
+ RXTIME of packet 1: 708us
+ Databitrate of packet 1: 26.51(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=37.25dB
+
+  DataBitrate (Mbps): 26.51
+ack
+new MCS = 4
+Iter 69 | fb=ack | next: MCS=4 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.144e-01, Peak=4.007e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 7.43(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=39.12dB
+
+  DataBitrate (Mbps): 7.43
+ack
+new MCS = 5
+Iter 70 | fb=ack | next: MCS=5 AMPDU=1 BWdec=2
+---- Progress 70/100 | current MCS=5 AMPDU=1 BWdec=2 ----
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.125e-01, Peak=3.731e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 6.63(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=37.83dB
+
+  DataBitrate (Mbps): 6.63
+ack
+new MCS = 4
+Iter 71 | fb=ack | next: MCS=4 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.094e-01, Peak=4.060e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 7.43(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=40.75dB
+
+  DataBitrate (Mbps): 7.43
+ack
+new MCS = 6
+Iter 72 | fb=ack | next: MCS=6 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.128e-01, Peak=3.489e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 7.43(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.97dB
+
+  DataBitrate (Mbps): 7.43
+ack
+new MCS = 3
+Iter 73 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.021e-01, Peak=3.628e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.73dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 5
+Iter 74 | fb=ack | next: MCS=5 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.128e-01, Peak=3.675e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 6.63(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.09dB
+
+  DataBitrate (Mbps): 6.63
+ack
+new MCS = 4
+Iter 75 | fb=ack | next: MCS=4 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.143e-01, Peak=4.151e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 7.43(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=41.68dB
+
+  DataBitrate (Mbps): 7.43
+ack
+new MCS = 6
+Iter 76 | fb=ack | next: MCS=6 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.166e-01, Peak=3.789e-01
+** No packet detected **
+new MCS = 6
+arq
+Iter 77 | fb=arq | next: MCS=6 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.166e-01, Peak=3.766e-01
+** No packet detected **
+new MCS = 6
+arq
+Iter 78 | fb=arq | next: MCS=6 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.166e-01, Peak=3.777e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 7.43(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.96dB
+
+  DataBitrate (Mbps): 7.43
+ack
+new MCS = 4
+Iter 79 | fb=ack | next: MCS=4 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.151e-01, Peak=3.627e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 7.43(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.51dB
+
+  DataBitrate (Mbps): 7.43
+ack
+new MCS = 5
+Iter 80 | fb=ack | next: MCS=5 AMPDU=1 BWdec=2
+---- Progress 80/100 | current MCS=5 AMPDU=1 BWdec=2 ----
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.105e-01, Peak=3.494e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 6.63(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=37.05dB
+
+  DataBitrate (Mbps): 6.63
+ack
+new MCS = 4
+Iter 81 | fb=ack | next: MCS=4 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.056e-01, Peak=3.595e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 7.43(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=39.36dB
+
+  DataBitrate (Mbps): 7.43
+ack
+new MCS = 6
+Iter 82 | fb=ack | next: MCS=6 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.121e-01, Peak=3.706e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 7.43(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.90dB
+
+  DataBitrate (Mbps): 7.43
+ack
+new MCS = 4
+Iter 83 | fb=ack | next: MCS=4 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.068e-01, Peak=3.825e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 7.43(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=42.70dB
+
+  DataBitrate (Mbps): 7.43
+ack
+new MCS = 7
+Iter 84 | fb=ack | next: MCS=7 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.137e-01, Peak=3.534e-01
+ RXTIME of packet 1: 324us
+ Databitrate of packet 1: 58.28(Mbps)
+  A-MPDU deaggregation unsuccessful 
+new MCS = 5
+arq
+Iter 85 | fb=arq | next: MCS=5 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.197e-01, Peak=3.797e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 6.63(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.67dB
+
+  DataBitrate (Mbps): 6.63
+ack
+new MCS = 3
+Iter 86 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.004e-01, Peak=3.631e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=37.64dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 5
+Iter 87 | fb=ack | next: MCS=5 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.174e-01, Peak=3.605e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 6.63(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=37.13dB
+
+  DataBitrate (Mbps): 6.63
+ack
+new MCS = 4
+Iter 88 | fb=ack | next: MCS=4 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.005e-01, Peak=3.279e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 7.43(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=42.09dB
+
+  DataBitrate (Mbps): 7.43
+ack
+new MCS = 6
+Iter 89 | fb=ack | next: MCS=6 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.175e-01, Peak=3.905e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 7.43(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=37.27dB
+
+  DataBitrate (Mbps): 7.43
+ack
+new MCS = 5
+Iter 90 | fb=ack | next: MCS=5 AMPDU=1 BWdec=2
+---- Progress 90/100 | current MCS=5 AMPDU=1 BWdec=2 ----
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.264e-01, Peak=3.918e-01
+** wrong target packet detected
+new MCS = 5
+arq
+Iter 91 | fb=arq | next: MCS=5 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.265e-01, Peak=3.919e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 6.63(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.00dB
+
+  DataBitrate (Mbps): 6.63
+ack
+new MCS = 5
+Iter 92 | fb=ack | next: MCS=5 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.264e-01, Peak=3.903e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 6.63(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=37.11dB
+
+  DataBitrate (Mbps): 6.63
+ack
+new MCS = 4
+Iter 93 | fb=ack | next: MCS=4 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.220e-01, Peak=3.657e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 7.43(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.65dB
+
+  DataBitrate (Mbps): 7.43
+ack
+new MCS = 5
+Iter 94 | fb=ack | next: MCS=5 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.166e-01, Peak=3.702e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 6.63(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.07dB
+
+  DataBitrate (Mbps): 6.63
+ack
+new MCS = 3
+Iter 95 | fb=ack | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.067e-01, Peak=3.736e-01
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=37.98dB
+
+  DataBitrate (Mbps): 5.21
+ack
+new MCS = 5
+Iter 96 | fb=ack | next: MCS=5 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.069e-01, Peak=3.435e-01
+ RXTIME of packet 1: 388us
+ Databitrate of packet 1: 48.57(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=37.33dB
+
+  DataBitrate (Mbps): 48.57
+ack
+new MCS = 5
+Iter 97 | fb=ack | next: MCS=5 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.069e-01, Peak=3.491e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 6.63(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.46dB
+
+  DataBitrate (Mbps): 6.63
+ack
+new MCS = 4
+Iter 98 | fb=ack | next: MCS=4 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.162e-01, Peak=3.733e-01
+** No packet detected **
+new MCS = 4
+arq
+Iter 99 | fb=arq | next: MCS=4 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.162e-01, Peak=3.724e-01
+ RXTIME of packet 1: 68us
+ Databitrate of packet 1: 7.43(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=41.87dB
+
+  DataBitrate (Mbps): 7.43
+ack
+new MCS = 7
+Iter 100 | fb=ack | next: MCS=7 AMPDU=1 BWdec=2
+---- Progress 100/100 | current MCS=7 AMPDU=1 BWdec=2 ----
+Done.
+Stats | fallback=0 (0.0%), realDecode=90 (90.0%), qUpdate=90
+Final state | MCS=7 AMPDU=1 BWdec=2 lastSNR=41.87 dB

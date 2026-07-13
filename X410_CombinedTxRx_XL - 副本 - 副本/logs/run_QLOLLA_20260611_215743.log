@@ -1,0 +1,17 @@
+Run log file: C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\X410_CombinedTxRx_XL - 副本 - 副本\logs\run_QLOLLA_20260611_215743.log
+Algorithm mode: QLOLLA
+Stable loopback point | TX=20 dB RX=25 dB | strict real-decode mode
+No Q-table found, starting fresh.
+  [TxDiag] iter=1 TXperiod=118624 hwSamp/75919 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.102e-01, Peak=4.594e-01
+  [Diag] Recovery exception: 函数或变量 'Databitrate' 无法识别。
+  [Diag] Recovery failed stage=recovery_exception, SNRest=1, rxRMS=1.102e-01, rxPeak=4.594e-01
+new MCS = 0
+arq
+{函数或变量 'throughputNow' 无法识别。
+
+出错 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('X410_runSingleHost_DualRole_AARF', 'C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\X410_CombinedTxRx_XL - 副本 - 副本\X410_runSingleHost_DualRole_AARF.m', 585)" style="font-weight:bold">X410_runSingleHost_DualRole_AARF</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\X410_CombinedTxRx_XL - 副本 - 副本\X410_runSingleHost_DualRole_AARF.m',585,0)">第 585 行</a>)
+        'ThroughputMbps', ternary(exist('throughputNow','var'), throughputNow, 0), ...
+                                                                ^^^^^^^^^^^^^
+} 
+X410_runSingleHost_DualRole_AARF

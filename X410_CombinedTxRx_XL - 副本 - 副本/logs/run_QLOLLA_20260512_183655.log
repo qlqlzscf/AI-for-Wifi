@@ -1,0 +1,5 @@
+Run log file: C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\logs\run_QLOLLA_20260512_183655.log
+{错误使用 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('X410_runSingleHost_DualRole_AARF', 'C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\X410_runSingleHost_DualRole_AARF.m', 40)" style="font-weight:bold">X410_runSingleHost_DualRole_AARF</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\X410_runSingleHost_DualRole_AARF.m',40,0)">第 40 行</a>)
+No saved radio configurations found. Run Radio Setup (Wireless Testbench) first.
+} 
+X410_runSingleHost_DualRole_AARF

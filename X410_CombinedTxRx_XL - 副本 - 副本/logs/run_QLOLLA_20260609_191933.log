@@ -1,0 +1,6 @@
+Run log file: C:\Users\welcome\Desktop\X410_CombinedTxRx_XL - 副本 - 副本\logs\run_QLOLLA_20260609_191933.log
+错误使用 X410_runSingleHost_DualRole_AARF (第 40 行)
+No saved radio configurations found. Run Radio Setup (Wireless Testbench) first.
+
+出错 run (第 112 行)
+evalin('caller', strcat(scriptStem, ';'));

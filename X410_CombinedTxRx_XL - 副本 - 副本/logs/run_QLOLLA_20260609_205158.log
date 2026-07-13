@@ -1,0 +1,22 @@
+Run log file: C:\Users\welcome\Desktop\X410_CombinedTxRx_XL - 副本 - 副本\logs\run_QLOLLA_20260609_205158.log
+Algorithm mode: QLOLLA
+Stable loopback point | TX=20 dB RX=25 dB | strict real-decode mode
+No Q-table found, starting fresh.
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.330e-01, Peak=4.915e-01
+  Estimated CFO: -293.5 Hz
+ RXTIME of packet 1: 2628us
+  ChanEst mean|h|: 1.037 | HE-LTF rms: 1.044
+  EVM trend [sym1..mid..end]: -32.5 -34.0 -33.4 -32.6 -33.5 -33.0 -33.0 -32.7 -33.6 dB
+  EVM per-sym: -33.36 dB | EVM per-sc: -33.50 dB
+ Databitrate of packet 1: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.87dB
+
+  DataBitrate (Mbps): 7.12
+{函数或变量 'RXTime' 无法识别。
+
+出错 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('X410_runSingleHost_DualRole_AARF', 'C:\Users\welcome\Desktop\X410_CombinedTxRx_XL - 副本 - 副本\X410_runSingleHost_DualRole_AARF.m', 341)" style="font-weight:bold">X410_runSingleHost_DualRole_AARF</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\X410_CombinedTxRx_XL - 副本 - 副本\X410_runSingleHost_DualRole_AARF.m',341,0)">第 341 行</a>)
+        if ~isempty(RXTime) && isnumeric(RXTime)
+                    ^^^^^^
+} 
+X410_runSingleHost_DualRole_AARF

@@ -1,0 +1,1327 @@
+Run log file: C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\X410_CombinedTxRx_XL - 副本 - 副本\logs\run_QLOLLA_20260611_202943.log
+Algorithm mode: QLOLLA
+Stable loopback point | TX=20 dB RX=25 dB | strict real-decode mode
+No Q-table found, starting fresh.
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.104e-01, Peak=4.426e-01
+  Estimated CFO: -160.1 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -34.11 dB | EVM per-sc: -35.14 dB
+ Databitrate of packet 1: 5.62(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.05dB
+
+  DataBitrate (Mbps): 5.62
+ack
+new MCS = 10
+Iter 1 | fb=ack | next: MCS=2 AMPDU=2 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.274e-01, Peak=4.338e-01
+  Estimated CFO: 181.5 Hz
+ RXTIME of packet 1: 164us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -33.96 dB | EVM per-sc: -34.23 dB
+ Databitrate of packet 1: 110.18(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.85dB
+
+  DataBitrate (Mbps): 110.18
+ack
+new MCS = 9
+Iter 2 | fb=ack | next: MCS=4 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.072e-01, Peak=4.018e-01
+  Estimated CFO: 305.7 Hz
+ RXTIME of packet 1: 116us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -29.21 dB | EVM per-sc: -29.68 dB
+ Databitrate of packet 1: 155.88(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=31.31dB
+
+  DataBitrate (Mbps): 155.88
+ack
+new MCS = 8
+Iter 3 | fb=ack | next: MCS=6 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.125e-01, Peak=4.336e-01
+  Estimated CFO: 159.9 Hz
+ RXTIME of packet 1: 100us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -31.07 dB | EVM per-sc: -32.04 dB
+ Databitrate of packet 1: 170.97(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.31dB
+
+  DataBitrate (Mbps): 170.97
+ack
+new MCS = 10
+Iter 4 | fb=ack | next: MCS=8 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.280e-01, Peak=4.694e-01
+  Estimated CFO: 14282.1 Hz
+  ** CFO outlier rejected: 14282.1 Hz **
+  Estimated CFO: 187.5 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -30.34 dB | EVM per-sc: -32.27 dB
+ Databitrate of packet 2: 206.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.87dB
+
+  DataBitrate (Mbps): 103.00
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+new MCS = 8
+arq
+Iter 5 | fb=arq | next: MCS=8 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.280e-01, Peak=4.693e-01
+  Estimated CFO: 238.4 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -29.39 dB | EVM per-sc: -31.20 dB
+ Databitrate of packet 1: 206.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.14dB
+
+  DataBitrate (Mbps): 206.00
+ack
+new MCS = 9
+Iter 6 | fb=ack | next: MCS=9 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.040e-01, Peak=4.536e-01
+** No packet detected(UN) **
+  [Diag] Recovery failed stage=pkt_detect, SNRest=1, rxRMS=1.040e-01, rxPeak=4.536e-01
+new MCS = 9
+arq
+Iter 7 | fb=arq | next: MCS=9 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.040e-01, Peak=4.541e-01
+  Estimated CFO: 208.2 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.060
+  EVM per-sym: -29.27 dB | EVM per-sc: -31.28 dB
+ Databitrate of packet 1: 196.08(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.95dB
+
+  DataBitrate (Mbps): 196.08
+ack
+new MCS = 10
+Iter 8 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.233e-01, Peak=4.142e-01
+  Estimated CFO:   6.6 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -31.12 dB | EVM per-sc: -33.67 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.23dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 10
+Iter 9 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.233e-01, Peak=4.142e-01
+  Estimated CFO: -36135.2 Hz
+  ** CFO outlier rejected: -36135.2 Hz **
+  Estimated CFO: -60.7 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.058 | HE-LTF rms: 1.059
+  EVM per-sym: -31.74 dB | EVM per-sc: -33.99 dB
+ Databitrate of packet 2: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.23dB
+
+  DataBitrate (Mbps): 110.32
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+new MCS = 10
+arq
+Iter 10 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+---- Progress 10/100 | current MCS=10 AMPDU=3 BWdec=16 ----
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.232e-01, Peak=4.139e-01
+  Estimated CFO: -40.7 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -32.36 dB | EVM per-sc: -34.14 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.42dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 10
+Iter 11 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.233e-01, Peak=4.136e-01
+  Estimated CFO:  26.3 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -31.88 dB | EVM per-sc: -33.98 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.55dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 10
+Iter 12 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.233e-01, Peak=4.145e-01
+  Estimated CFO: -17016.4 Hz
+  ** CFO outlier rejected: -17016.4 Hz **
+  Estimated CFO:  78.8 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.060
+  EVM per-sym: -31.80 dB | EVM per-sc: -33.74 dB
+ Databitrate of packet 2: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.53dB
+
+  DataBitrate (Mbps): 110.32
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+new MCS = 10
+arq
+Iter 13 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.233e-01, Peak=4.145e-01
+  Estimated CFO:  64.4 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.060
+  EVM per-sym: -31.67 dB | EVM per-sc: -33.94 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.16dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 10
+Iter 14 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.233e-01, Peak=4.139e-01
+  Estimated CFO: -237.5 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.058 | HE-LTF rms: 1.060
+  EVM per-sym: -28.38 dB | EVM per-sc: -30.66 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.34dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 9
+Iter 15 | fb=ack | next: MCS=9 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.039e-01, Peak=4.538e-01
+  Estimated CFO: -98.1 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -30.19 dB | EVM per-sc: -31.99 dB
+ Databitrate of packet 1: 196.08(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.90dB
+
+  DataBitrate (Mbps): 196.08
+ack
+new MCS = 10
+Iter 16 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.239e-01, Peak=4.469e-01
+  Estimated CFO: 199.9 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -29.08 dB | EVM per-sc: -31.69 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.69dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 9
+Iter 17 | fb=ack | next: MCS=9 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.039e-01, Peak=4.540e-01
+** No packet detected(UN) **
+  [Diag] Recovery failed stage=pkt_detect, SNRest=1, rxRMS=1.039e-01, rxPeak=4.540e-01
+new MCS = 9
+arq
+Iter 18 | fb=arq | next: MCS=9 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.039e-01, Peak=4.540e-01
+  Estimated CFO: 164.9 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -29.96 dB | EVM per-sc: -31.97 dB
+ Databitrate of packet 1: 196.08(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.27dB
+
+  DataBitrate (Mbps): 196.08
+ack
+new MCS = 10
+Iter 19 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.234e-01, Peak=4.131e-01
+  Estimated CFO: 360.4 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -27.27 dB | EVM per-sc: -29.57 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=31.16dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 8
+Iter 20 | fb=ack | next: MCS=8 AMPDU=3 BWdec=16
+---- Progress 20/100 | current MCS=8 AMPDU=3 BWdec=16 ----
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.276e-01, Peak=4.532e-01
+** No packet detected(UN) **
+  [Diag] Recovery failed stage=pkt_detect, SNRest=1, rxRMS=1.276e-01, rxPeak=4.532e-01
+new MCS = 8
+arq
+Iter 21 | fb=arq | next: MCS=8 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.276e-01, Peak=4.530e-01
+  Estimated CFO: -19077.4 Hz
+  ** CFO outlier rejected: -19077.4 Hz **
+  Estimated CFO:  48.7 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -32.08 dB | EVM per-sc: -33.86 dB
+ Databitrate of packet 2: 206.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.37dB
+
+  DataBitrate (Mbps): 103.00
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+new MCS = 8
+arq
+Iter 22 | fb=arq | next: MCS=8 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.276e-01, Peak=4.529e-01
+  Estimated CFO: -39168.3 Hz
+  ** CFO outlier rejected: -39168.3 Hz **
+  Estimated CFO: -83.9 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -32.48 dB | EVM per-sc: -34.31 dB
+ Databitrate of packet 2: 206.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.10dB
+
+  DataBitrate (Mbps): 103.00
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 8
+arq
+Iter 23 | fb=arq | next: MCS=8 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.276e-01, Peak=4.535e-01
+** No packet detected(UN) **
+  [Diag] Recovery failed stage=pkt_detect, SNRest=1, rxRMS=1.276e-01, rxPeak=4.535e-01
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 8
+arq
+Iter 24 | fb=arq | next: MCS=8 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.277e-01, Peak=4.527e-01
+  Estimated CFO: -15024.0 Hz
+  ** CFO outlier rejected: -15024.0 Hz **
+  Estimated CFO: -463.5 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -25.30 dB | EVM per-sc: -27.10 dB
+ Databitrate of packet 2: 206.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=30.49dB
+
+  DataBitrate (Mbps): 103.00
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+new MCS = 8
+arq
+Iter 25 | fb=arq | next: MCS=8 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.276e-01, Peak=4.531e-01
+  Estimated CFO: -145.0 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -30.94 dB | EVM per-sc: -32.93 dB
+ Databitrate of packet 1: 206.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.82dB
+
+  DataBitrate (Mbps): 206.00
+ack
+new MCS = 10
+Iter 26 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.237e-01, Peak=4.228e-01
+  Estimated CFO: -21223.8 Hz
+  ** CFO outlier rejected: -21223.8 Hz **
+  Estimated CFO:   8.8 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.060
+  EVM per-sym: -31.82 dB | EVM per-sc: -34.28 dB
+ Databitrate of packet 2: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.46dB
+
+  DataBitrate (Mbps): 110.32
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+new MCS = 10
+arq
+Iter 27 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.237e-01, Peak=4.239e-01
+  Estimated CFO: -37088.9 Hz
+  ** CFO outlier rejected: -37088.9 Hz **
+  Estimated CFO: 256.8 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -29.20 dB | EVM per-sc: -31.69 dB
+ Databitrate of packet 2: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.43dB
+
+  DataBitrate (Mbps): 110.32
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 10
+arq
+Iter 28 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.237e-01, Peak=4.228e-01
+  Estimated CFO: 290.3 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.060
+  EVM per-sym: -29.00 dB | EVM per-sc: -31.16 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.35dB
+
+  DataBitrate (Mbps): 220.64
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 10
+arq
+Iter 29 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.238e-01, Peak=4.218e-01
+** No packet detected(UN) **
+  [Diag] Recovery failed stage=pkt_detect, SNRest=1, rxRMS=1.238e-01, rxPeak=4.218e-01
+new MCS = 10
+arq
+Iter 30 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+---- Progress 30/100 | current MCS=10 AMPDU=3 BWdec=16 ----
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.237e-01, Peak=4.219e-01
+  Estimated CFO:  48.0 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -31.96 dB | EVM per-sc: -34.25 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.27dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 10
+Iter 31 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.238e-01, Peak=4.221e-01
+  Estimated CFO: -17639.9 Hz
+  ** CFO outlier rejected: -17639.9 Hz **
+  Estimated CFO: -50.8 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.060
+  EVM per-sym: -31.88 dB | EVM per-sc: -33.94 dB
+ Databitrate of packet 2: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.83dB
+
+  DataBitrate (Mbps): 110.32
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+new MCS = 10
+arq
+Iter 32 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.237e-01, Peak=4.213e-01
+  Estimated CFO:  81.2 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -30.98 dB | EVM per-sc: -33.24 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.90dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 10
+Iter 33 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.237e-01, Peak=4.219e-01
+  Estimated CFO: -17.3 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.061 | HE-LTF rms: 1.062
+  EVM per-sym: -32.43 dB | EVM per-sc: -34.61 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.06dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 10
+Iter 34 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.237e-01, Peak=4.219e-01
+** No packet detected(UN) **
+  [Diag] Recovery failed stage=pkt_detect, SNRest=1, rxRMS=1.237e-01, rxPeak=4.219e-01
+new MCS = 10
+arq
+Iter 35 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.237e-01, Peak=4.223e-01
+  Estimated CFO: -129.6 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -31.38 dB | EVM per-sc: -33.32 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.52dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 10
+Iter 36 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.237e-01, Peak=4.217e-01
+  Estimated CFO: 18157.6 Hz
+  ** CFO outlier rejected: 18157.6 Hz **
+  Estimated CFO:  64.3 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -31.46 dB | EVM per-sc: -33.47 dB
+ Databitrate of packet 2: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.65dB
+
+  DataBitrate (Mbps): 110.32
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+new MCS = 10
+arq
+Iter 37 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.237e-01, Peak=4.216e-01
+  Estimated CFO: 194.9 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -29.10 dB | EVM per-sc: -31.64 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.09dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 10
+Iter 38 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.237e-01, Peak=4.220e-01
+  Estimated CFO: 228.4 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -29.98 dB | EVM per-sc: -32.40 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.69dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 10
+Iter 39 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.237e-01, Peak=4.229e-01
+  Estimated CFO:  71.9 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.060
+  EVM per-sym: -31.56 dB | EVM per-sc: -34.15 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.90dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 10
+Iter 40 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+---- Progress 40/100 | current MCS=10 AMPDU=3 BWdec=16 ----
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.237e-01, Peak=4.211e-01
+  Estimated CFO: -41284.4 Hz
+  ** CFO outlier rejected: -41284.4 Hz **
+  Estimated CFO: 187.7 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -30.99 dB | EVM per-sc: -33.29 dB
+ Databitrate of packet 2: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.30dB
+
+  DataBitrate (Mbps): 110.32
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+new MCS = 10
+arq
+Iter 41 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.237e-01, Peak=4.217e-01
+  Estimated CFO: -173.5 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -29.63 dB | EVM per-sc: -32.00 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.39dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 10
+Iter 42 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.237e-01, Peak=4.221e-01
+  Estimated CFO: -17891.6 Hz
+  ** CFO outlier rejected: -17891.6 Hz **
+  Estimated CFO: -188.2 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -29.54 dB | EVM per-sc: -32.13 dB
+ Databitrate of packet 2: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.14dB
+
+  DataBitrate (Mbps): 110.32
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+new MCS = 10
+arq
+Iter 43 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.237e-01, Peak=4.225e-01
+  Estimated CFO: 423.8 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -25.78 dB | EVM per-sc: -28.19 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=29.81dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 8
+Iter 44 | fb=ack | next: MCS=8 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.283e-01, Peak=4.536e-01
+  Estimated CFO:  79.8 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -32.51 dB | EVM per-sc: -34.26 dB
+ Databitrate of packet 1: 206.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.54dB
+
+  DataBitrate (Mbps): 206.00
+ack
+new MCS = 10
+Iter 45 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.235e-01, Peak=4.426e-01
+  Estimated CFO:   6.8 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -30.92 dB | EVM per-sc: -33.43 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.27dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 10
+Iter 46 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.235e-01, Peak=4.424e-01
+** No packet detected(UN) **
+  [Diag] Recovery failed stage=pkt_detect, SNRest=1, rxRMS=1.235e-01, rxPeak=4.424e-01
+new MCS = 10
+arq
+Iter 47 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.234e-01, Peak=4.423e-01
+  Estimated CFO: 388.3 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -25.94 dB | EVM per-sc: -28.66 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=30.73dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 8
+Iter 48 | fb=ack | next: MCS=8 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.213e-01, Peak=4.300e-01
+  Estimated CFO: -287.9 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -28.89 dB | EVM per-sc: -30.77 dB
+ Databitrate of packet 1: 206.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.05dB
+
+  DataBitrate (Mbps): 206.00
+ack
+new MCS = 9
+Iter 49 | fb=ack | next: MCS=9 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.039e-01, Peak=4.543e-01
+  Estimated CFO: -132.4 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -29.96 dB | EVM per-sc: -31.72 dB
+ Databitrate of packet 1: 196.08(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.71dB
+
+  DataBitrate (Mbps): 196.08
+ack
+new MCS = 10
+Iter 50 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+---- Progress 50/100 | current MCS=10 AMPDU=3 BWdec=16 ----
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.238e-01, Peak=4.140e-01
+  Estimated CFO:  85.0 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -31.59 dB | EVM per-sc: -33.93 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.85dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 10
+Iter 51 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.238e-01, Peak=4.143e-01
+  Estimated CFO: -179.5 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.058 | HE-LTF rms: 1.059
+  EVM per-sym: -29.18 dB | EVM per-sc: -31.56 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.48dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 10
+Iter 52 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.238e-01, Peak=4.141e-01
+  Estimated CFO: -37659.5 Hz
+  ** CFO outlier rejected: -37659.5 Hz **
+  Estimated CFO: -245.4 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -28.97 dB | EVM per-sc: -31.09 dB
+ Databitrate of packet 2: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.81dB
+
+  DataBitrate (Mbps): 110.32
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+new MCS = 10
+arq
+Iter 53 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.238e-01, Peak=4.157e-01
+  Estimated CFO: -39693.4 Hz
+  ** CFO outlier rejected: -39693.4 Hz **
+  Estimated CFO:  28.1 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -31.62 dB | EVM per-sc: -34.05 dB
+ Databitrate of packet 2: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.83dB
+
+  DataBitrate (Mbps): 110.32
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 10
+arq
+Iter 54 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.238e-01, Peak=4.145e-01
+  Estimated CFO: -194.3 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -30.48 dB | EVM per-sc: -32.95 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.95dB
+
+  DataBitrate (Mbps): 220.64
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 10
+arq
+Iter 55 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.238e-01, Peak=4.141e-01
+  Estimated CFO: -35261.0 Hz
+  ** CFO outlier rejected: -35261.0 Hz **
+  Estimated CFO: -402.0 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -27.01 dB | EVM per-sc: -29.38 dB
+ Databitrate of packet 2: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=30.51dB
+
+  DataBitrate (Mbps): 110.32
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+new MCS = 10
+arq
+Iter 56 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.238e-01, Peak=4.149e-01
+  Estimated CFO: -34167.7 Hz
+  ** CFO outlier rejected: -34167.7 Hz **
+  Estimated CFO: -11.4 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -32.30 dB | EVM per-sc: -34.44 dB
+ Databitrate of packet 2: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.29dB
+
+  DataBitrate (Mbps): 110.32
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 10
+arq
+Iter 57 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.238e-01, Peak=4.138e-01
+  Estimated CFO:  97.2 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -30.74 dB | EVM per-sc: -33.12 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.96dB
+
+  DataBitrate (Mbps): 220.64
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 10
+arq
+Iter 58 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.238e-01, Peak=4.144e-01
+  Estimated CFO: -562.6 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -24.67 dB | EVM per-sc: -27.43 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=27.11dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 7
+Iter 59 | fb=ack | next: MCS=8 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.276e-01, Peak=4.528e-01
+** No packet detected(UN) **
+  [Diag] Recovery failed stage=pkt_detect, SNRest=1, rxRMS=1.276e-01, rxPeak=4.528e-01
+new MCS = 8
+arq
+Iter 60 | fb=arq | next: MCS=8 AMPDU=3 BWdec=16
+---- Progress 60/100 | current MCS=8 AMPDU=3 BWdec=16 ----
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.276e-01, Peak=4.525e-01
+  Estimated CFO: -38.9 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -32.38 dB | EVM per-sc: -34.38 dB
+ Databitrate of packet 1: 206.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.54dB
+
+  DataBitrate (Mbps): 206.00
+ack
+new MCS = 11
+Iter 61 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.234e-01, Peak=4.136e-01
+  Estimated CFO: -350.6 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -27.16 dB | EVM per-sc: -29.75 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=31.13dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 9
+Iter 62 | fb=ack | next: MCS=9 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.037e-01, Peak=4.540e-01
+  Estimated CFO: 217.5 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -29.75 dB | EVM per-sc: -31.39 dB
+ Databitrate of packet 1: 196.08(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.05dB
+
+  DataBitrate (Mbps): 196.08
+ack
+new MCS = 10
+Iter 63 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.239e-01, Peak=4.145e-01
+  Estimated CFO: -15418.0 Hz
+  ** CFO outlier rejected: -15418.0 Hz **
+  Estimated CFO:  99.8 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -30.68 dB | EVM per-sc: -33.40 dB
+ Databitrate of packet 2: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.09dB
+
+  DataBitrate (Mbps): 110.32
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+new MCS = 10
+arq
+Iter 64 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.239e-01, Peak=4.149e-01
+  Estimated CFO: -19466.4 Hz
+  ** CFO outlier rejected: -19466.4 Hz **
+  Estimated CFO: 238.4 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -28.79 dB | EVM per-sc: -31.43 dB
+ Databitrate of packet 2: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.89dB
+
+  DataBitrate (Mbps): 110.32
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 10
+arq
+Iter 65 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.239e-01, Peak=4.134e-01
+  Estimated CFO: 426.6 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -26.18 dB | EVM per-sc: -28.80 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=29.76dB
+
+  DataBitrate (Mbps): 220.64
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 10
+arq
+Iter 66 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.239e-01, Peak=4.152e-01
+  Estimated CFO:  55.2 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -31.32 dB | EVM per-sc: -33.92 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.09dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 10
+Iter 67 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.239e-01, Peak=4.148e-01
+  Estimated CFO: -37291.4 Hz
+  ** CFO outlier rejected: -37291.4 Hz **
+  Estimated CFO: -65.0 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -32.15 dB | EVM per-sc: -34.18 dB
+ Databitrate of packet 2: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.04dB
+
+  DataBitrate (Mbps): 110.32
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+new MCS = 10
+arq
+Iter 68 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.238e-01, Peak=4.146e-01
+  Estimated CFO: -71.6 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -30.71 dB | EVM per-sc: -33.44 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.05dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 10
+Iter 69 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.239e-01, Peak=4.134e-01
+  Estimated CFO: -18311.2 Hz
+  ** CFO outlier rejected: -18311.2 Hz **
+  Estimated CFO:  99.7 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -30.49 dB | EVM per-sc: -33.28 dB
+ Databitrate of packet 2: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.03dB
+
+  DataBitrate (Mbps): 110.32
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+new MCS = 10
+arq
+Iter 70 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+---- Progress 70/100 | current MCS=10 AMPDU=3 BWdec=16 ----
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.239e-01, Peak=4.140e-01
+  Estimated CFO: -39316.1 Hz
+  ** CFO outlier rejected: -39316.1 Hz **
+  Estimated CFO: 199.8 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -29.25 dB | EVM per-sc: -31.77 dB
+ Databitrate of packet 2: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.24dB
+
+  DataBitrate (Mbps): 110.32
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 10
+arq
+Iter 71 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.238e-01, Peak=4.141e-01
+  Estimated CFO:  10.1 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -31.31 dB | EVM per-sc: -33.98 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.71dB
+
+  DataBitrate (Mbps): 220.64
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 10
+arq
+Iter 72 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.238e-01, Peak=4.141e-01
+  Estimated CFO: -99.3 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -31.58 dB | EVM per-sc: -33.56 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.29dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 10
+Iter 73 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.238e-01, Peak=4.139e-01
+  Estimated CFO: -36524.3 Hz
+  ** CFO outlier rejected: -36524.3 Hz **
+  Estimated CFO: -367.6 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -26.35 dB | EVM per-sc: -29.18 dB
+ Databitrate of packet 2: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=30.82dB
+
+  DataBitrate (Mbps): 110.32
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+new MCS = 10
+arq
+Iter 74 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.238e-01, Peak=4.144e-01
+** No packet detected(UN) **
+  [Diag] Recovery failed stage=pkt_detect, SNRest=1, rxRMS=1.238e-01, rxPeak=4.144e-01
+new MCS = 10
+arq
+Iter 75 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.238e-01, Peak=4.144e-01
+  Estimated CFO: -267.9 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -27.38 dB | EVM per-sc: -30.19 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=30.87dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 8
+Iter 76 | fb=ack | next: MCS=8 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.280e-01, Peak=4.529e-01
+  Estimated CFO: 182.6 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -30.70 dB | EVM per-sc: -32.24 dB
+ Databitrate of packet 1: 206.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.85dB
+
+  DataBitrate (Mbps): 206.00
+ack
+new MCS = 9
+Iter 77 | fb=ack | next: MCS=9 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.038e-01, Peak=4.552e-01
+  Estimated CFO: 483.7 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.060
+  EVM per-sym: -25.07 dB | EVM per-sc: -26.76 dB
+ Databitrate of packet 1: 196.08(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=27.79dB
+
+  DataBitrate (Mbps): 196.08
+ack
+new MCS = 7
+Iter 78 | fb=ack | next: MCS=7 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.040e-01, Peak=4.543e-01
+  Estimated CFO: -23838.0 Hz
+  ** CFO outlier rejected: -23838.0 Hz **
+  Estimated CFO: -62.6 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -31.65 dB | EVM per-sc: -32.94 dB
+ Databitrate of packet 2: 195.84(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.00dB
+
+  DataBitrate (Mbps): 97.92
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+new MCS = 7
+arq
+Iter 79 | fb=arq | next: MCS=7 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.041e-01, Peak=4.544e-01
+  Estimated CFO: -40221.3 Hz
+  ** CFO outlier rejected: -40221.3 Hz **
+  Estimated CFO: -82.8 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -31.84 dB | EVM per-sc: -33.06 dB
+ Databitrate of packet 2: 195.84(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.69dB
+
+  DataBitrate (Mbps): 97.92
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 7
+arq
+Iter 80 | fb=arq | next: MCS=7 AMPDU=3 BWdec=16
+---- Progress 80/100 | current MCS=7 AMPDU=3 BWdec=16 ----
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.041e-01, Peak=4.549e-01
+  Estimated CFO:  91.3 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.061 | HE-LTF rms: 1.062
+  EVM per-sym: -31.08 dB | EVM per-sc: -32.42 dB
+ Databitrate of packet 1: 195.84(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.32dB
+
+  DataBitrate (Mbps): 195.84
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 7
+arq
+Iter 81 | fb=arq | next: MCS=7 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.040e-01, Peak=4.545e-01
+  Estimated CFO: -41.1 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -31.89 dB | EVM per-sc: -33.22 dB
+ Databitrate of packet 1: 195.84(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.61dB
+
+  DataBitrate (Mbps): 195.84
+ack
+new MCS = 10
+Iter 82 | fb=ack | next: MCS=9 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.041e-01, Peak=4.539e-01
+** No packet detected(UN) **
+  [Diag] Recovery failed stage=pkt_detect, SNRest=1, rxRMS=1.041e-01, rxPeak=4.539e-01
+new MCS = 9
+arq
+Iter 83 | fb=arq | next: MCS=9 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.041e-01, Peak=4.538e-01
+  Estimated CFO: -105.2 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.060
+  EVM per-sym: -30.20 dB | EVM per-sc: -32.16 dB
+ Databitrate of packet 1: 196.08(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.60dB
+
+  DataBitrate (Mbps): 196.08
+ack
+new MCS = 10
+Iter 84 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.235e-01, Peak=4.138e-01
+  Estimated CFO: -135.1 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -31.42 dB | EVM per-sc: -33.61 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.48dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 10
+Iter 85 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.236e-01, Peak=4.144e-01
+  Estimated CFO: -21.6 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -32.10 dB | EVM per-sc: -34.22 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.67dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 10
+Iter 86 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.235e-01, Peak=4.139e-01
+  Estimated CFO: -244.6 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -27.73 dB | EVM per-sc: -30.50 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.62dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 9
+Iter 87 | fb=ack | next: MCS=9 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.038e-01, Peak=4.533e-01
+  Estimated CFO: 107.4 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -30.49 dB | EVM per-sc: -32.20 dB
+ Databitrate of packet 1: 196.08(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.76dB
+
+  DataBitrate (Mbps): 196.08
+ack
+new MCS = 10
+Iter 88 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.232e-01, Peak=4.175e-01
+  Estimated CFO: 159.7 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.060
+  EVM per-sym: -30.34 dB | EVM per-sc: -32.47 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.83dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 10
+Iter 89 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.232e-01, Peak=4.182e-01
+  Estimated CFO: 127.7 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -30.71 dB | EVM per-sc: -32.69 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.65dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 10
+Iter 90 | fb=ack | next: MCS=10 AMPDU=3 BWdec=16
+---- Progress 90/100 | current MCS=10 AMPDU=3 BWdec=16 ----
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.232e-01, Peak=4.188e-01
+** No packet detected(UN) **
+  [Diag] Recovery failed stage=pkt_detect, SNRest=1, rxRMS=1.232e-01, rxPeak=4.188e-01
+new MCS = 10
+arq
+Iter 91 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.232e-01, Peak=4.183e-01
+  Estimated CFO: -34322.5 Hz
+  ** CFO outlier rejected: -34322.5 Hz **
+  Estimated CFO:  83.1 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -31.31 dB | EVM per-sc: -33.45 dB
+ Databitrate of packet 2: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.45dB
+
+  DataBitrate (Mbps): 110.32
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+new MCS = 10
+arq
+Iter 92 | fb=arq | next: MCS=10 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.232e-01, Peak=4.186e-01
+  Estimated CFO:  53.6 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -31.83 dB | EVM per-sc: -34.03 dB
+ Databitrate of packet 1: 220.64(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.24dB
+
+  DataBitrate (Mbps): 220.64
+ack
+new MCS = 11
+Iter 93 | fb=ack | next: MCS=11 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.307e-01, Peak=4.517e-01
+  Estimated CFO: -37106.4 Hz
+  ** CFO outlier rejected: -37106.4 Hz **
+  Estimated CFO: -358.3 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -26.63 dB | EVM per-sc: -29.57 dB
+ Databitrate of packet 2: 204.16(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.05dB
+
+  DataBitrate (Mbps): 102.08
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+new MCS = 11
+arq
+Iter 94 | fb=arq | next: MCS=11 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.307e-01, Peak=4.522e-01
+  Estimated CFO:  37.2 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -32.10 dB | EVM per-sc: -34.38 dB
+ Databitrate of packet 1: 204.16(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=37.11dB
+
+  DataBitrate (Mbps): 204.16
+ack
+new MCS = 11
+Iter 95 | fb=ack | next: MCS=11 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.307e-01, Peak=4.528e-01
+** No packet detected(UN) **
+  [Diag] Recovery failed stage=pkt_detect, SNRest=1, rxRMS=1.307e-01, rxPeak=4.528e-01
+new MCS = 11
+arq
+Iter 96 | fb=arq | next: MCS=11 AMPDU=3 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.307e-01, Peak=4.519e-01
+  Estimated CFO: 698.7 Hz
+ RXTIME of packet 1: 84us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -24.40 dB | EVM per-sc: -27.09 dB
+ Databitrate of packet 1: 204.16(Mbps)
+  A-MPDU deaggregation unsuccessful 
+  [Diag] Decode/FCS failure stage=ampdu_deaggregate, rxRMS=1.307e-01, rxPeak=4.519e-01
+new MCS = 7
+arq
+Iter 97 | fb=arq | next: MCS=9 AMPDU=5 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.039e-01, Peak=4.541e-01
+  Estimated CFO: -23017.9 Hz
+  ** CFO outlier rejected: -23017.9 Hz **
+  Estimated CFO: -126.7 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.060
+  EVM per-sym: -30.96 dB | EVM per-sc: -32.50 dB
+ Databitrate of packet 2: 196.08(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.46dB
+
+  DataBitrate (Mbps): 98.04
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+new MCS = 9
+arq
+Iter 98 | fb=arq | next: MCS=9 AMPDU=5 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.039e-01, Peak=4.539e-01
+  Estimated CFO: -40676.4 Hz
+  ** CFO outlier rejected: -40676.4 Hz **
+  Estimated CFO: -251.7 Hz
+ RXTIME of packet 2: 84us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.060
+  EVM per-sym: -28.02 dB | EVM per-sc: -29.65 dB
+ Databitrate of packet 2: 196.08(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=30.56dB
+
+  DataBitrate (Mbps): 98.04
+  [Diag] Degraded success: usedPacket=2 skipped=1 cfoSkip=1 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 9
+arq
+Iter 99 | fb=arq | next: MCS=9 AMPDU=5 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.039e-01, Peak=4.535e-01
+** No packet detected(UN) **
+  [Diag] Recovery failed stage=pkt_detect, SNRest=1, rxRMS=1.039e-01, rxPeak=4.535e-01
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 9
+arq
+Iter 100 | fb=arq | next: MCS=9 AMPDU=5 BWdec=16
+---- Progress 100/100 | current MCS=9 AMPDU=5 BWdec=16 ----
+Done.
+Stats | fallback=0 (0.0%), realDecode=87 (87.0%), qUpdate=53
+StatsDiag | CFOoutliers=28, NoPkt=13, WrongTarget=0, PacketDetectFail=13, HESIGACRC=0, FCSFail=0, Packet2Success=28, DegradedSuccess=28, CtrlFreeze=16
+StatsPER | meanPER=0.000, medianPER=0.000
+StatsTP | meanTput=217.69 Mbps, medianTput=219.43 Mbps, peakTput=271.06 Mbps
+Final state | MCS=9 AMPDU=5 BWdec=16 lastSNR=20.33 dB

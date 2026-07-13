@@ -1,0 +1,185 @@
+Run log file: C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\X410_CombinedTxRx_XL - 副本 - 副本\logs\run_QLOLLA_20260611_215916.log
+Algorithm mode: QLOLLA
+Stable loopback point | TX=20 dB RX=25 dB | strict real-decode mode
+No Q-table found, starting fresh.
+  [TxDiag] iter=1 TXperiod=118624 hwSamp/75919 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.105e-01, Peak=4.427e-01
+  [Diag] Recovery exception: 函数或变量 'Databitrate' 无法识别。
+  [Diag] Recovery failed stage=recovery_exception, SNRest=1, rxRMS=1.105e-01, rxPeak=4.427e-01
+new MCS = 0
+arq
+Iter 1 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=2 TXperiod=118624 hwSamp/75919 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.105e-01, Peak=4.439e-01
+  [Diag] Recovery exception: 函数或变量 'Databitrate' 无法识别。
+  [Diag] Recovery failed stage=recovery_exception, SNRest=1, rxRMS=1.105e-01, rxPeak=4.439e-01
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 2 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=3 TXperiod=118624 hwSamp/75919 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.105e-01, Peak=4.443e-01
+  [Diag] Recovery exception: 函数或变量 'Databitrate' 无法识别。
+  [Diag] Recovery failed stage=recovery_exception, SNRest=1, rxRMS=1.105e-01, rxPeak=4.443e-01
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 3 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=4 TXperiod=118624 hwSamp/75919 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.105e-01, Peak=4.435e-01
+  [Diag] Recovery exception: 函数或变量 'Databitrate' 无法识别。
+  [Diag] Recovery failed stage=recovery_exception, SNRest=1, rxRMS=1.105e-01, rxPeak=4.435e-01
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 4 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=5 TXperiod=118624 hwSamp/75919 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.105e-01, Peak=4.429e-01
+  [Diag] Recovery exception: 函数或变量 'Databitrate' 无法识别。
+  [Diag] Recovery failed stage=recovery_exception, SNRest=1, rxRMS=1.105e-01, rxPeak=4.429e-01
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 5 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=6 TXperiod=118624 hwSamp/75919 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.105e-01, Peak=4.453e-01
+  [Diag] Recovery exception: 函数或变量 'Databitrate' 无法识别。
+  [Diag] Recovery failed stage=recovery_exception, SNRest=1, rxRMS=1.105e-01, rxPeak=4.453e-01
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 6 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=7 TXperiod=118624 hwSamp/75919 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.105e-01, Peak=4.439e-01
+  [Diag] Recovery exception: 函数或变量 'Databitrate' 无法识别。
+  [Diag] Recovery failed stage=recovery_exception, SNRest=1, rxRMS=1.105e-01, rxPeak=4.439e-01
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 7 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=8 TXperiod=118624 hwSamp/75919 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.105e-01, Peak=4.436e-01
+  [Diag] Recovery exception: 函数或变量 'Databitrate' 无法识别。
+  [Diag] Recovery failed stage=recovery_exception, SNRest=1, rxRMS=1.105e-01, rxPeak=4.436e-01
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 8 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=9 TXperiod=118624 hwSamp/75919 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.105e-01, Peak=4.445e-01
+  [Diag] Recovery exception: 函数或变量 'Databitrate' 无法识别。
+  [Diag] Recovery failed stage=recovery_exception, SNRest=1, rxRMS=1.105e-01, rxPeak=4.445e-01
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 9 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=10 TXperiod=118624 hwSamp/75919 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.105e-01, Peak=4.432e-01
+  [Diag] Recovery exception: 函数或变量 'Databitrate' 无法识别。
+  [Diag] Recovery failed stage=recovery_exception, SNRest=1, rxRMS=1.105e-01, rxPeak=4.432e-01
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 10 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+---- Progress 10/100 | current MCS=0 AMPDU=1 BWdec=16 ----
+  [TxDiag] iter=11 TXperiod=118624 hwSamp/75919 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.105e-01, Peak=4.441e-01
+  [Diag] Recovery exception: 函数或变量 'Databitrate' 无法识别。
+  [Diag] Recovery failed stage=recovery_exception, SNRest=1, rxRMS=1.105e-01, rxPeak=4.441e-01
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 11 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=12 TXperiod=118624 hwSamp/75919 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.105e-01, Peak=4.435e-01
+  [Diag] Recovery exception: 函数或变量 'Databitrate' 无法识别。
+  [Diag] Recovery failed stage=recovery_exception, SNRest=1, rxRMS=1.105e-01, rxPeak=4.435e-01
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 12 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=13 TXperiod=118624 hwSamp/75919 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.105e-01, Peak=4.436e-01
+  [Diag] Recovery exception: 函数或变量 'Databitrate' 无法识别。
+  [Diag] Recovery failed stage=recovery_exception, SNRest=1, rxRMS=1.105e-01, rxPeak=4.436e-01
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 13 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=14 TXperiod=118624 hwSamp/75919 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.105e-01, Peak=4.437e-01
+  [Diag] Recovery exception: 函数或变量 'Databitrate' 无法识别。
+  [Diag] Recovery failed stage=recovery_exception, SNRest=1, rxRMS=1.105e-01, rxPeak=4.437e-01
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 14 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=15 TXperiod=118624 hwSamp/75919 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.105e-01, Peak=4.432e-01
+  [Diag] Recovery exception: 函数或变量 'Databitrate' 无法识别。
+  [Diag] Recovery failed stage=recovery_exception, SNRest=1, rxRMS=1.105e-01, rxPeak=4.432e-01
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 15 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=16 TXperiod=118624 hwSamp/75919 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.105e-01, Peak=4.443e-01
+  [Diag] Recovery exception: 函数或变量 'Databitrate' 无法识别。
+  [Diag] Recovery failed stage=recovery_exception, SNRest=1, rxRMS=1.105e-01, rxPeak=4.443e-01
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 16 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=17 TXperiod=118624 hwSamp/75919 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.105e-01, Peak=4.431e-01
+  [Diag] Recovery exception: 函数或变量 'Databitrate' 无法识别。
+  [Diag] Recovery failed stage=recovery_exception, SNRest=1, rxRMS=1.105e-01, rxPeak=4.431e-01
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 17 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=18 TXperiod=118624 hwSamp/75919 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.106e-01, Peak=4.431e-01
+  [Diag] Recovery exception: 函数或变量 'Databitrate' 无法识别。
+  [Diag] Recovery failed stage=recovery_exception, SNRest=1, rxRMS=1.106e-01, rxPeak=4.431e-01
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 18 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=19 TXperiod=118624 hwSamp/75919 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.106e-01, Peak=4.436e-01
+  [Diag] Recovery exception: 函数或变量 'Databitrate' 无法识别。
+  [Diag] Recovery failed stage=recovery_exception, SNRest=1, rxRMS=1.106e-01, rxPeak=4.436e-01
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 19 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=20 TXperiod=118624 hwSamp/75919 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.105e-01, Peak=4.436e-01
+  [Diag] Recovery exception: 函数或变量 'Databitrate' 无法识别。
+  [Diag] Recovery failed stage=recovery_exception, SNRest=1, rxRMS=1.105e-01, rxPeak=4.436e-01
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 20 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+---- Progress 20/100 | current MCS=0 AMPDU=1 BWdec=16 ----
+  [TxDiag] iter=21 TXperiod=118624 hwSamp/75919 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.105e-01, Peak=4.439e-01
+  [Diag] Recovery exception: 函数或变量 'Databitrate' 无法识别。
+  [Diag] Recovery failed stage=recovery_exception, SNRest=1, rxRMS=1.105e-01, rxPeak=4.439e-01
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 21 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=22 TXperiod=118624 hwSamp/75919 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.105e-01, Peak=4.442e-01
+  [Diag] Recovery exception: 函数或变量 'Databitrate' 无法识别。
+  [Diag] Recovery failed stage=recovery_exception, SNRest=1, rxRMS=1.105e-01, rxPeak=4.442e-01
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 22 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=23 TXperiod=118624 hwSamp/75919 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+{操作在以下过程中被用户终止 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('X410_runSingleHost_DualRole_AARF', 'C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\X410_CombinedTxRx_XL - 副本 - 副本\X410_runSingleHost_DualRole_AARF.m', 293)" style="font-weight:bold">X410_runSingleHost_DualRole_AARF</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\X410_CombinedTxRx_XL - 副本 - 副本\X410_runSingleHost_DualRole_AARF.m',293,0)">第 293 行</a>)
+} 
+X410_runSingleHost_DualRole_AARF

@@ -1,0 +1,1752 @@
+Run log file: C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\X410_CombinedTxRx_XL - 副本 - 副本\logs\run_QLOLLA_20260611_224526.log
+Algorithm mode: QLOLLA
+Stable loopback point | TX=20 dB RX=25 dB | strict real-decode mode
+No Q-table found, starting fresh.
+  [TxDiag] iter=1 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.140e-01, Peak=4.446e-01
+  [FrontGuard] skip early candidate: cand=1 raw=49450 guard=71439 search=0
+  Estimated CFO: 109.4 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -33.50 dB | EVM per-sc: -34.56 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.20dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+new MCS = 0
+arq
+Iter 1 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=2 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.427e-01
+  [FrontGuard] skip early candidate: cand=1 raw=38699 guard=71439 search=0
+  Estimated CFO:  94.6 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -34.23 dB | EVM per-sc: -35.29 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.24dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 2 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=3 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.140e-01, Peak=4.439e-01
+  [FrontGuard] skip early candidate: cand=1 raw=45021 guard=71439 search=0
+  Estimated CFO: -123.0 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -33.37 dB | EVM per-sc: -34.41 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.53dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 3 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=4 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.140e-01, Peak=4.428e-01
+  [FrontGuard] skip early candidate: cand=1 raw=47818 guard=71439 search=0
+  Estimated CFO: -406.6 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -28.82 dB | EVM per-sc: -29.81 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=29.46dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 4 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=5 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.433e-01
+  [FrontGuard] skip early candidate: cand=1 raw=29771 guard=71439 search=0
+  Estimated CFO: 137.2 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -33.89 dB | EVM per-sc: -34.91 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.49dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 5 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=6 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.428e-01
+  [FrontGuard] skip early candidate: cand=1 raw=35522 guard=71439 search=0
+  Estimated CFO: 194.0 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -33.19 dB | EVM per-sc: -34.25 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.55dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 6 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=7 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.433e-01
+  [FrontGuard] skip early candidate: cand=1 raw=4706 guard=71439 search=0
+  Estimated CFO: -193.9 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -32.98 dB | EVM per-sc: -34.07 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.78dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 7 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=8 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.140e-01, Peak=4.437e-01
+  [FrontGuard] skip early candidate: cand=1 raw=437 guard=71439 search=0
+  Estimated CFO: -17141.6 Hz
+  ** CFO outlier rejected: -17141.6 Hz | iter=8 cand=2 search=71439 raw=71876 timeoff=-213 pkt=71663 phase=224/71439 coarse=-3638.2 fine=-13503.4 **
+  Estimated CFO: 267.5 Hz
+ RXTIME of packet 2: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -31.30 dB | EVM per-sc: -32.39 dB
+ Databitrate of packet 2: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.31dB
+
+  DataBitrate (Mbps): 3.37
+  [Diag] Degraded success: usedPacket=2 skipped=2 cfoSkip=1 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 8 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=9 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.140e-01, Peak=4.432e-01
+  [FrontGuard] skip early candidate: cand=1 raw=13095 guard=71439 search=0
+  Estimated CFO: 385.3 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -29.66 dB | EVM per-sc: -30.68 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=31.39dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 9 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=10 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.140e-01, Peak=4.434e-01
+  [FrontGuard] skip early candidate: cand=1 raw=6959 guard=71439 search=0
+  Estimated CFO: 456.7 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -29.11 dB | EVM per-sc: -30.16 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=30.90dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 10 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+---- Progress 10/100 | current MCS=0 AMPDU=1 BWdec=16 ----
+  [TxDiag] iter=11 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.140e-01, Peak=4.450e-01
+  [FrontGuard] skip early candidate: cand=1 raw=29630 guard=71439 search=0
+  Estimated CFO: -177.1 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -33.32 dB | EVM per-sc: -34.38 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.52dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 11 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=12 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.140e-01, Peak=4.444e-01
+  [FrontGuard] skip early candidate: cand=1 raw=38325 guard=71439 search=0
+  Estimated CFO: 368.7 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -30.43 dB | EVM per-sc: -31.41 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=31.15dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 12 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=13 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.140e-01, Peak=4.429e-01
+  [FrontGuard] skip early candidate: cand=1 raw=43331 guard=71439 search=0
+  Estimated CFO: -20.3 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -34.31 dB | EVM per-sc: -35.34 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.09dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 13 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=14 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.140e-01, Peak=4.434e-01
+  [FrontGuard] skip early candidate: cand=1 raw=16308 guard=71439 search=0
+  Estimated CFO: -353.7 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -31.00 dB | EVM per-sc: -32.08 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.78dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 14 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=15 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.140e-01, Peak=4.428e-01
+  [FrontGuard] skip early candidate: cand=1 raw=29440 guard=71439 search=0
+  Estimated CFO: 287.9 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -30.83 dB | EVM per-sc: -31.91 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.11dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 15 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=16 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.434e-01
+  [FrontGuard] skip early candidate: cand=1 raw=14103 guard=71439 search=0
+  Estimated CFO: 346.1 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.060
+  EVM per-sym: -31.09 dB | EVM per-sc: -32.13 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.95dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 16 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=17 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.140e-01, Peak=4.437e-01
+  [FrontGuard] skip early candidate: cand=1 raw=2745 guard=71439 search=0
+  Estimated CFO: 296.4 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -31.27 dB | EVM per-sc: -32.34 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.00dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 17 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=18 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.441e-01
+  [FrontGuard] skip early candidate: cand=1 raw=29544 guard=71439 search=0
+  Estimated CFO: 115.0 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -32.46 dB | EVM per-sc: -33.54 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.63dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 18 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=19 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.140e-01, Peak=4.429e-01
+  [FrontGuard] skip early candidate: cand=1 raw=31791 guard=71439 search=0
+  Estimated CFO: -400.2 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -29.16 dB | EVM per-sc: -30.16 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=29.79dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 19 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=20 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.433e-01
+  [FrontGuard] skip early candidate: cand=1 raw=5201 guard=71439 search=0
+  Estimated CFO: -31.4 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -34.36 dB | EVM per-sc: -35.45 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.29dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 20 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+---- Progress 20/100 | current MCS=0 AMPDU=1 BWdec=16 ----
+  [TxDiag] iter=21 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.451e-01
+  [FrontGuard] skip early candidate: cand=1 raw=51351 guard=71439 search=0
+  Estimated CFO: 107.7 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.060
+  EVM per-sym: -33.79 dB | EVM per-sc: -34.76 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.68dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 21 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=22 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.140e-01, Peak=4.438e-01
+  [FrontGuard] skip early candidate: cand=1 raw=35902 guard=71439 search=0
+  Estimated CFO: -429.3 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -30.07 dB | EVM per-sc: -31.08 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=31.05dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 22 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=23 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.433e-01
+  [FrontGuard] skip early candidate: cand=1 raw=42040 guard=71439 search=0
+  Estimated CFO:  76.2 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -33.78 dB | EVM per-sc: -34.85 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.61dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 23 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=24 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.430e-01
+  [FrontGuard] skip early candidate: cand=1 raw=38296 guard=71439 search=0
+  Estimated CFO: 155.2 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -33.55 dB | EVM per-sc: -34.61 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.09dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 24 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=25 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.443e-01
+  [FrontGuard] skip early candidate: cand=1 raw=2895 guard=71439 search=0
+  Estimated CFO:  95.8 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -33.81 dB | EVM per-sc: -34.90 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.93dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 25 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=26 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.423e-01
+  [FrontGuard] skip early candidate: cand=1 raw=53185 guard=71439 search=0
+  Estimated CFO: -89.0 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -33.81 dB | EVM per-sc: -34.85 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.16dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 26 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=27 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.441e-01
+  [FrontGuard] skip early candidate: cand=1 raw=628 guard=71439 search=0
+  Estimated CFO: -19376.9 Hz
+  ** CFO outlier rejected: -19376.9 Hz | iter=27 cand=2 search=71439 raw=72067 timeoff=-207 pkt=71860 phase=421/71439 coarse=-4869.8 fine=-14507.1 **
+  Estimated CFO: -82.6 Hz
+ RXTIME of packet 2: 372us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM trend [sym1..mid..end]: -33.6 -34.0 -33.5 -33.7 -33.5 -33.5 -33.4 -33.7 -33.8 dB
+  EVM per-sym: -33.66 dB | EVM per-sc: -33.97 dB
+ Databitrate of packet 2: 50.40(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.89dB
+
+  DataBitrate (Mbps): 25.20
+  [Diag] Degraded success: usedPacket=2 skipped=2 cfoSkip=1 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 27 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=28 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.437e-01
+  [FrontGuard] skip early candidate: cand=1 raw=4159 guard=71439 search=0
+  Estimated CFO: 239.2 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -31.31 dB | EVM per-sc: -32.33 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.80dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 28 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=29 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.434e-01
+  [FrontGuard] skip early candidate: cand=1 raw=32175 guard=71439 search=0
+  Estimated CFO: 323.5 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -31.18 dB | EVM per-sc: -32.16 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=30.98dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 29 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=30 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.437e-01
+  [FrontGuard] skip early candidate: cand=1 raw=8014 guard=71439 search=0
+  Estimated CFO: -50.9 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -34.38 dB | EVM per-sc: -35.39 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.47dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 30 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+---- Progress 30/100 | current MCS=0 AMPDU=1 BWdec=16 ----
+  [TxDiag] iter=31 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.433e-01
+  [FrontGuard] skip early candidate: cand=1 raw=26892 guard=71439 search=0
+  Estimated CFO:   8.3 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -33.80 dB | EVM per-sc: -34.83 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.74dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 31 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=32 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.429e-01
+  [FrontGuard] skip early candidate: cand=1 raw=15454 guard=71439 search=0
+  Estimated CFO:  72.4 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -34.20 dB | EVM per-sc: -35.25 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.00dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 32 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=33 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.436e-01
+  [FrontGuard] skip early candidate: cand=1 raw=206 guard=71439 search=0
+  Estimated CFO: -283.2 Hz
+ RXTIME of packet 1: 372us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM trend [sym1..mid..end]: -31.7 -31.0 -31.5 -31.9 -31.6 -31.2 -31.8 -32.3 -32.5 dB
+  EVM per-sym: -31.66 dB | EVM per-sc: -31.86 dB
+ Databitrate of packet 1: 50.40(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.41dB
+
+  DataBitrate (Mbps): 50.40
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 33 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=34 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.434e-01
+  [FrontGuard] skip early candidate: cand=1 raw=19699 guard=71439 search=0
+  Estimated CFO: -220.7 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -32.87 dB | EVM per-sc: -33.86 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.00dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 34 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=35 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.433e-01
+  [FrontGuard] skip early candidate: cand=1 raw=19541 guard=71439 search=0
+  Estimated CFO: -10.9 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -34.47 dB | EVM per-sc: -35.52 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.18dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 35 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=36 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.426e-01
+  [FrontGuard] skip early candidate: cand=1 raw=44522 guard=71439 search=0
+  Estimated CFO: -199.5 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -32.91 dB | EVM per-sc: -33.99 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.75dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 36 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=37 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.448e-01
+  [FrontGuard] skip early candidate: cand=1 raw=5569 guard=71439 search=0
+  Estimated CFO: -290.5 Hz
+ RXTIME of packet 1: 372us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM trend [sym1..mid..end]: -32.5 -31.0 -32.2 -32.0 -32.2 -31.6 -32.2 -33.2 -32.0 dB
+  EVM per-sym: -32.00 dB | EVM per-sc: -32.18 dB
+ Databitrate of packet 1: 50.40(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=31.80dB
+
+  DataBitrate (Mbps): 50.40
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 37 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=38 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.422e-01
+  [FrontGuard] skip early candidate: cand=1 raw=18010 guard=71439 search=0
+  Estimated CFO: -233.5 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -31.86 dB | EVM per-sc: -32.89 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.19dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 38 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=39 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.431e-01
+  [FrontGuard] skip early candidate: cand=1 raw=23 guard=71439 search=0
+  Estimated CFO: -77.3 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.036 | HE-LTF rms: 1.037
+  EVM per-sym: -34.17 dB | EVM per-sc: -35.20 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.93dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 39 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=40 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.427e-01
+  [FrontGuard] skip early candidate: cand=1 raw=26987 guard=71439 search=0
+  Estimated CFO: -90.4 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -34.00 dB | EVM per-sc: -35.04 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.63dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 40 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+---- Progress 40/100 | current MCS=0 AMPDU=1 BWdec=16 ----
+  [TxDiag] iter=41 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.431e-01
+  [FrontGuard] skip early candidate: cand=1 raw=40146 guard=71439 search=0
+  Estimated CFO:  51.7 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.060
+  EVM per-sym: -34.29 dB | EVM per-sc: -35.39 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.21dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 41 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=42 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.434e-01
+  [FrontGuard] skip early candidate: cand=1 raw=32020 guard=71439 search=0
+  Estimated CFO: -32.1 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -34.21 dB | EVM per-sc: -35.27 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.28dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 42 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=43 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.448e-01
+  [FrontGuard] skip early candidate: cand=1 raw=23 guard=71439 search=0
+  Estimated CFO: -170.6 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.040 | HE-LTF rms: 1.041
+  EVM per-sym: -33.32 dB | EVM per-sc: -34.43 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.85dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 43 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=44 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.443e-01
+  [FrontGuard] skip early candidate: cand=1 raw=25 guard=71439 search=0
+  Estimated CFO: -19848.7 Hz
+  ** CFO outlier rejected: -19848.7 Hz | iter=44 cand=2 search=71439 raw=71439 timeoff=-315 pkt=71124 phase=71124/71439 coarse=-8104.6 fine=-11744.1 **
+  Estimated CFO: -241.6 Hz
+ RXTIME of packet 2: 372us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM trend [sym1..mid..end]: -31.0 -32.4 -31.7 -32.5 -31.7 -31.9 -32.2 -31.8 -31.9 dB
+  EVM per-sym: -32.17 dB | EVM per-sc: -32.38 dB
+ Databitrate of packet 2: 50.40(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=30.79dB
+
+  DataBitrate (Mbps): 25.20
+  [Diag] Degraded success: usedPacket=2 skipped=2 cfoSkip=1 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 44 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=45 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.435e-01
+  [FrontGuard] skip early candidate: cand=1 raw=506 guard=71439 search=0
+  Estimated CFO: -17203.9 Hz
+  ** CFO outlier rejected: -17203.9 Hz | iter=45 cand=2 search=71439 raw=71946 timeoff=-214 pkt=71732 phase=293/71439 coarse=-4256.7 fine=-12947.1 **
+  Estimated CFO: 305.7 Hz
+ RXTIME of packet 2: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -30.74 dB | EVM per-sc: -31.76 dB
+ Databitrate of packet 2: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=30.77dB
+
+  DataBitrate (Mbps): 3.37
+  [Diag] Degraded success: usedPacket=2 skipped=2 cfoSkip=1 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 45 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=46 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.431e-01
+  [FrontGuard] skip early candidate: cand=1 raw=32051 guard=71439 search=0
+  Estimated CFO:  10.7 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -34.31 dB | EVM per-sc: -35.31 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.09dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 46 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=47 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.432e-01
+  [FrontGuard] skip early candidate: cand=1 raw=42445 guard=71439 search=0
+  Estimated CFO: 213.9 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -32.56 dB | EVM per-sc: -33.57 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.72dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 47 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=48 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.441e-01
+  [FrontGuard] skip early candidate: cand=1 raw=14534 guard=71439 search=0
+  Estimated CFO: -209.0 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -32.81 dB | EVM per-sc: -33.83 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.34dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 48 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=49 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.431e-01
+  [FrontGuard] skip early candidate: cand=1 raw=10622 guard=71439 search=0
+  Estimated CFO: -331.6 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.061 | HE-LTF rms: 1.062
+  EVM per-sym: -30.16 dB | EVM per-sc: -31.21 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=30.09dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 49 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=50 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.443e-01
+  [FrontGuard] skip early candidate: cand=1 raw=37122 guard=71439 search=0
+  Estimated CFO: 113.1 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -33.87 dB | EVM per-sc: -34.98 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.34dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 50 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+---- Progress 50/100 | current MCS=0 AMPDU=1 BWdec=16 ----
+  [TxDiag] iter=51 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.439e-01
+  [FrontGuard] skip early candidate: cand=1 raw=51799 guard=71439 search=0
+  Estimated CFO: -255.9 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -31.46 dB | EVM per-sc: -32.48 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.32dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 51 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=52 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.439e-01
+  [FrontGuard] skip early candidate: cand=1 raw=45388 guard=71439 search=0
+  Estimated CFO: -396.1 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -29.63 dB | EVM per-sc: -30.64 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=30.38dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 52 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=53 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.425e-01
+  [FrontGuard] skip early candidate: cand=1 raw=7156 guard=71439 search=0
+  Estimated CFO:  63.7 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -34.16 dB | EVM per-sc: -35.20 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.51dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 53 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=54 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.430e-01
+  [FrontGuard] skip early candidate: cand=1 raw=8988 guard=71439 search=0
+  Estimated CFO:  83.0 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.060
+  EVM per-sym: -34.42 dB | EVM per-sc: -35.48 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.89dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 54 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=55 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.138e-01, Peak=4.439e-01
+  [FrontGuard] skip early candidate: cand=1 raw=26 guard=71439 search=0
+  Estimated CFO: -14.3 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.034 | HE-LTF rms: 1.036
+  EVM per-sym: -34.21 dB | EVM per-sc: -35.26 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.12dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 55 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=56 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.445e-01
+  [FrontGuard] skip early candidate: cand=1 raw=5345 guard=71439 search=0
+  Estimated CFO: -281.2 Hz
+ RXTIME of packet 1: 372us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.060
+  EVM trend [sym1..mid..end]: -32.3 -30.9 -31.3 -31.4 -31.3 -31.5 -31.7 -32.6 -31.8 dB
+  EVM per-sym: -31.58 dB | EVM per-sc: -31.80 dB
+ Databitrate of packet 1: 50.40(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.11dB
+
+  DataBitrate (Mbps): 50.40
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 56 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=57 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.429e-01
+  [FrontGuard] skip early candidate: cand=1 raw=42663 guard=71439 search=0
+  Estimated CFO: -137.0 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -34.04 dB | EVM per-sc: -35.10 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.98dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 57 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=58 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.444e-01
+  [FrontGuard] skip early candidate: cand=1 raw=49828 guard=71439 search=0
+  Estimated CFO: 312.4 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -31.13 dB | EVM per-sc: -32.13 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.99dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 58 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=59 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.428e-01
+  [FrontGuard] skip early candidate: cand=1 raw=13261 guard=71439 search=0
+  Estimated CFO: 299.5 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -31.60 dB | EVM per-sc: -32.63 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.23dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 59 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=60 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.434e-01
+  [FrontGuard] skip early candidate: cand=1 raw=2617 guard=71439 search=0
+  Estimated CFO: -228.0 Hz
+ RXTIME of packet 1: 372us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM trend [sym1..mid..end]: -32.7 -33.2 -33.4 -32.9 -32.7 -33.0 -32.2 -33.4 -33.1 dB
+  EVM per-sym: -32.90 dB | EVM per-sc: -33.12 dB
+ Databitrate of packet 1: 50.40(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.53dB
+
+  DataBitrate (Mbps): 50.40
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 60 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+---- Progress 60/100 | current MCS=0 AMPDU=1 BWdec=16 ----
+  [TxDiag] iter=61 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.425e-01
+  [FrontGuard] skip early candidate: cand=1 raw=54018 guard=71439 search=0
+  Estimated CFO: 159.2 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -33.38 dB | EVM per-sc: -34.39 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.28dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 61 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=62 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.432e-01
+  [FrontGuard] skip early candidate: cand=1 raw=50696 guard=71439 search=0
+  Estimated CFO: -304.3 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -32.05 dB | EVM per-sc: -33.01 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.03dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 62 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=63 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.440e-01
+  [FrontGuard] skip early candidate: cand=1 raw=11779 guard=71439 search=0
+  Estimated CFO: -188.4 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -32.69 dB | EVM per-sc: -33.73 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.84dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 63 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=64 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.440e-01
+  [FrontGuard] skip early candidate: cand=1 raw=43061 guard=71439 search=0
+  Estimated CFO: 170.7 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -32.19 dB | EVM per-sc: -33.20 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.99dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 64 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=65 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.138e-01, Peak=4.428e-01
+  [FrontGuard] skip early candidate: cand=1 raw=379 guard=71439 search=0
+  Estimated CFO: -34245.7 Hz
+  ** CFO outlier rejected: -34245.7 Hz | iter=65 cand=2 search=71439 raw=71819 timeoff=-316 pkt=71503 phase=64/71439 coarse=-5372.0 fine=-28873.7 **
+  Estimated CFO: 189.8 Hz
+ RXTIME of packet 2: 372us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM trend [sym1..mid..end]: -33.9 -33.3 -33.5 -33.4 -33.9 -33.5 -33.2 -33.1 -33.7 dB
+  EVM per-sym: -33.29 dB | EVM per-sc: -33.51 dB
+ Databitrate of packet 2: 50.40(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.67dB
+
+  DataBitrate (Mbps): 25.20
+  [Diag] Degraded success: usedPacket=2 skipped=2 cfoSkip=1 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 65 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=66 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.439e-01
+  [FrontGuard] skip early candidate: cand=1 raw=26170 guard=71439 search=0
+  Estimated CFO: -230.4 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -32.50 dB | EVM per-sc: -33.56 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.10dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 66 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=67 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.428e-01
+  [FrontGuard] skip early candidate: cand=1 raw=29936 guard=71439 search=0
+  Estimated CFO: -372.4 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -29.37 dB | EVM per-sc: -30.36 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=29.72dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 67 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=68 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.438e-01
+  [FrontGuard] skip early candidate: cand=1 raw=42477 guard=71439 search=0
+  Estimated CFO: 274.7 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.060
+  EVM per-sym: -31.38 dB | EVM per-sc: -32.43 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=31.46dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 68 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=69 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.441e-01
+  [FrontGuard] skip early candidate: cand=1 raw=793 guard=71439 search=0
+  Estimated CFO: -42007.3 Hz
+  ** CFO outlier rejected: -42007.3 Hz | iter=69 cand=2 search=71439 raw=72232 timeoff=-1244 pkt=70988 phase=70988/71439 coarse=-4011.9 fine=-37995.4 **
+  Estimated CFO: 200.5 Hz
+ RXTIME of packet 2: 372us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM trend [sym1..mid..end]: -32.6 -32.8 -31.9 -32.9 -32.3 -33.2 -32.8 -32.4 -32.7 dB
+  EVM per-sym: -32.55 dB | EVM per-sc: -32.82 dB
+ Databitrate of packet 2: 50.40(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.65dB
+
+  DataBitrate (Mbps): 25.20
+  [Diag] Degraded success: usedPacket=2 skipped=2 cfoSkip=1 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 69 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=70 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.433e-01
+  [FrontGuard] skip early candidate: cand=1 raw=29888 guard=71439 search=0
+  Estimated CFO: -10.3 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -34.44 dB | EVM per-sc: -35.56 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.65dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 70 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+---- Progress 70/100 | current MCS=0 AMPDU=1 BWdec=16 ----
+  [TxDiag] iter=71 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.447e-01
+  [FrontGuard] skip early candidate: cand=1 raw=43179 guard=71439 search=0
+  Estimated CFO: 185.4 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -32.80 dB | EVM per-sc: -33.84 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.16dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 71 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=72 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.138e-01, Peak=4.428e-01
+  [FrontGuard] skip early candidate: cand=1 raw=1703 guard=71439 search=0
+  Estimated CFO: -18272.2 Hz
+  ** CFO outlier rejected: -18272.2 Hz | iter=72 cand=2 search=71439 raw=73142 timeoff=-213 pkt=72929 phase=1490/71439 coarse=-4001.4 fine=-14270.8 **
+  Estimated CFO: -180.5 Hz
+ RXTIME of packet 2: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -32.81 dB | EVM per-sc: -33.80 dB
+ Databitrate of packet 2: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.30dB
+
+  DataBitrate (Mbps): 3.37
+  [Diag] Degraded success: usedPacket=2 skipped=2 cfoSkip=1 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 72 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=73 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.433e-01
+  [FrontGuard] skip early candidate: cand=1 raw=47766 guard=71439 search=0
+  Estimated CFO: -217.5 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -32.45 dB | EVM per-sc: -33.43 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.78dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 73 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=74 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.428e-01
+  [FrontGuard] skip early candidate: cand=1 raw=3350 guard=71439 search=0
+  Estimated CFO: -37680.2 Hz
+  ** CFO outlier rejected: -37680.2 Hz | iter=74 cand=2 search=71439 raw=74789 timeoff=-315 pkt=74474 phase=3035/71439 coarse=-4293.8 fine=-33386.4 **
+  Estimated CFO:   6.1 Hz
+ RXTIME of packet 2: 372us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM trend [sym1..mid..end]: -34.6 -34.6 -33.5 -34.6 -34.4 -34.7 -34.7 -34.4 -34.1 dB
+  EVM per-sym: -34.46 dB | EVM per-sc: -34.69 dB
+ Databitrate of packet 2: 50.40(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.39dB
+
+  DataBitrate (Mbps): 25.20
+  [Diag] Degraded success: usedPacket=2 skipped=2 cfoSkip=1 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 74 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=75 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.421e-01
+  [FrontGuard] skip early candidate: cand=1 raw=49217 guard=71439 search=0
+  Estimated CFO:  48.2 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -33.84 dB | EVM per-sc: -34.87 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.96dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 75 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=76 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.138e-01, Peak=4.426e-01
+  [FrontGuard] skip early candidate: cand=1 raw=1901 guard=71439 search=0
+  Estimated CFO: -40538.1 Hz
+  ** CFO outlier rejected: -40538.1 Hz | iter=76 cand=2 search=71439 raw=73341 timeoff=-316 pkt=73025 phase=1586/71439 coarse=-4314.5 fine=-36223.7 **
+  Estimated CFO: -227.2 Hz
+ RXTIME of packet 2: 372us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM trend [sym1..mid..end]: -32.1 -31.9 -32.4 -32.6 -32.4 -32.0 -32.8 -32.4 -32.2 dB
+  EVM per-sym: -32.32 dB | EVM per-sc: -32.60 dB
+ Databitrate of packet 2: 50.40(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.62dB
+
+  DataBitrate (Mbps): 25.20
+  [Diag] Degraded success: usedPacket=2 skipped=2 cfoSkip=1 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 76 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=77 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.445e-01
+  [FrontGuard] skip early candidate: cand=1 raw=46118 guard=71439 search=0
+  Estimated CFO: -266.4 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -32.19 dB | EVM per-sc: -33.24 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.24dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 77 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=78 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.438e-01
+  [FrontGuard] skip early candidate: cand=1 raw=36458 guard=71439 search=0
+  Estimated CFO: -108.6 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -33.86 dB | EVM per-sc: -34.91 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.69dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 78 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=79 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.435e-01
+  [FrontGuard] skip early candidate: cand=1 raw=15654 guard=71439 search=0
+  Estimated CFO: -95.8 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -34.12 dB | EVM per-sc: -35.19 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.84dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 79 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=80 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.139e-01, Peak=4.432e-01
+  [FrontGuard] skip early candidate: cand=1 raw=24 guard=71439 search=0
+  Estimated CFO:  93.4 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.037 | HE-LTF rms: 1.038
+  EVM per-sym: -33.26 dB | EVM per-sc: -34.35 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.75dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 80 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+---- Progress 80/100 | current MCS=0 AMPDU=1 BWdec=16 ----
+  [TxDiag] iter=81 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.138e-01, Peak=4.424e-01
+  [FrontGuard] skip early candidate: cand=1 raw=16952 guard=71439 search=0
+  Estimated CFO: -323.5 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -29.37 dB | EVM per-sc: -30.32 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=29.83dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 81 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=82 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.138e-01, Peak=4.423e-01
+  [FrontGuard] skip early candidate: cand=1 raw=2629 guard=71439 search=0
+  Estimated CFO: -87.0 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.060
+  EVM per-sym: -34.41 dB | EVM per-sc: -35.45 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.71dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 82 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=83 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.138e-01, Peak=4.431e-01
+  [FrontGuard] skip early candidate: cand=1 raw=9785 guard=71439 search=0
+  Estimated CFO: 118.4 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -34.13 dB | EVM per-sc: -35.19 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.56dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 83 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=84 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.138e-01, Peak=4.442e-01
+  [FrontGuard] skip early candidate: cand=1 raw=46001 guard=71439 search=0
+  Estimated CFO:  97.5 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.060
+  EVM per-sym: -33.85 dB | EVM per-sc: -34.92 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.77dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 84 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=85 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.138e-01, Peak=4.434e-01
+  [FrontGuard] skip early candidate: cand=1 raw=1718 guard=71439 search=0
+  Estimated CFO: -41798.1 Hz
+  ** CFO outlier rejected: -41798.1 Hz | iter=85 cand=2 search=71439 raw=73158 timeoff=-1251 pkt=71907 phase=468/71439 coarse=-3779.7 fine=-38018.4 **
+  Estimated CFO:  60.9 Hz
+ RXTIME of packet 2: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -34.08 dB | EVM per-sc: -35.08 dB
+ Databitrate of packet 2: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.47dB
+
+  DataBitrate (Mbps): 3.37
+  [Diag] Degraded success: usedPacket=2 skipped=2 cfoSkip=1 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 85 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=86 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.138e-01, Peak=4.419e-01
+  [FrontGuard] skip early candidate: cand=1 raw=42663 guard=71439 search=0
+  Estimated CFO: 102.1 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.060
+  EVM per-sym: -33.43 dB | EVM per-sc: -34.48 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.38dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 86 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=87 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.138e-01, Peak=4.431e-01
+  [FrontGuard] skip early candidate: cand=1 raw=13683 guard=71439 search=0
+  Estimated CFO:  63.0 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -34.42 dB | EVM per-sc: -35.50 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.37dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 87 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=88 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.138e-01, Peak=4.429e-01
+  [FrontGuard] skip early candidate: cand=1 raw=17153 guard=71439 search=0
+  Estimated CFO: -408.4 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM per-sym: -29.68 dB | EVM per-sc: -30.78 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=31.75dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 88 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=89 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.138e-01, Peak=4.425e-01
+  [FrontGuard] skip early candidate: cand=1 raw=413 guard=71439 search=0
+  Estimated CFO:  20.4 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -34.19 dB | EVM per-sc: -35.20 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.58dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 89 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=90 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.138e-01, Peak=4.426e-01
+  [FrontGuard] skip early candidate: cand=1 raw=47348 guard=71439 search=0
+  Estimated CFO: -134.6 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -33.91 dB | EVM per-sc: -35.02 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.89dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 90 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+---- Progress 90/100 | current MCS=0 AMPDU=1 BWdec=16 ----
+  [TxDiag] iter=91 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.138e-01, Peak=4.432e-01
+  [FrontGuard] skip early candidate: cand=1 raw=21420 guard=71439 search=0
+  Estimated CFO: -117.3 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -34.09 dB | EVM per-sc: -35.15 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.62dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 91 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=92 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.138e-01, Peak=4.430e-01
+  [FrontGuard] skip early candidate: cand=1 raw=4094 guard=71439 search=0
+  Estimated CFO: -41034.9 Hz
+  ** CFO outlier rejected: -41034.9 Hz | iter=92 cand=2 search=71439 raw=75533 timeoff=-1244 pkt=74289 phase=2850/71439 coarse=-4224.8 fine=-36810.1 **
+  Estimated CFO: -64.4 Hz
+ RXTIME of packet 2: 372us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.061
+  EVM trend [sym1..mid..end]: -34.2 -34.2 -34.3 -34.1 -34.0 -34.5 -34.1 -34.3 -34.6 dB
+  EVM per-sym: -34.21 dB | EVM per-sc: -34.45 dB
+ Databitrate of packet 2: 50.40(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.57dB
+
+  DataBitrate (Mbps): 25.20
+  [Diag] Degraded success: usedPacket=2 skipped=2 cfoSkip=1 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 92 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=93 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.138e-01, Peak=4.436e-01
+  [FrontGuard] skip early candidate: cand=1 raw=30850 guard=71439 search=0
+  Estimated CFO: 233.9 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -32.71 dB | EVM per-sc: -33.73 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.79dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 93 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=94 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.138e-01, Peak=4.437e-01
+  [FrontGuard] skip early candidate: cand=1 raw=28 guard=71439 search=0
+  Estimated CFO: 119.2 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.042 | HE-LTF rms: 1.044
+  EVM per-sym: -33.87 dB | EVM per-sc: -34.91 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.36dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 94 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=95 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.138e-01, Peak=4.436e-01
+  [FrontGuard] skip early candidate: cand=1 raw=30138 guard=71439 search=0
+  Estimated CFO: -12.0 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.059 | HE-LTF rms: 1.060
+  EVM per-sym: -34.36 dB | EVM per-sc: -35.39 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.07dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 95 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=96 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.138e-01, Peak=4.423e-01
+  [FrontGuard] skip early candidate: cand=1 raw=35276 guard=71439 search=0
+  Estimated CFO:   0.4 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -33.97 dB | EVM per-sc: -35.01 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.55dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 96 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=97 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.138e-01, Peak=4.430e-01
+  [FrontGuard] skip early candidate: cand=1 raw=2387 guard=71439 search=0
+  Estimated CFO: -401.5 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -29.30 dB | EVM per-sc: -30.34 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=29.93dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 97 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=98 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.138e-01, Peak=4.431e-01
+  [FrontGuard] skip early candidate: cand=1 raw=10361 guard=71439 search=0
+  Estimated CFO: -205.0 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.062
+  EVM per-sym: -32.53 dB | EVM per-sc: -33.51 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.92dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 98 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=99 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.138e-01, Peak=4.431e-01
+  [FrontGuard] skip early candidate: cand=1 raw=10534 guard=71439 search=0
+  Estimated CFO: -32.1 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -34.31 dB | EVM per-sc: -35.37 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.20dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Controller frozen for this iteration, remaining=0.
+new MCS = 0
+arq
+Iter 99 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+  [TxDiag] iter=100 TXperiod=111624 hwSamp/71439 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.138e-01, Peak=4.428e-01
+  [FrontGuard] skip early candidate: cand=1 raw=34872 guard=71439 search=0
+  Estimated CFO: -289.3 Hz
+ RXTIME of packet 1: 68us
+  ChanEst mean|h|: 1.060 | HE-LTF rms: 1.061
+  EVM per-sym: -31.87 dB | EVM per-sc: -32.90 dB
+ Databitrate of packet 1: 6.74(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.24dB
+
+  DataBitrate (Mbps): 6.74
+  [Diag] Degraded success: usedPacket=1 skipped=1 cfoSkip=0 -> controller update down-weighted.
+  [Ctrl] Freeze triggered by consecutive hard/degraded events.
+new MCS = 0
+arq
+Iter 100 | fb=arq | next: MCS=0 AMPDU=1 BWdec=16
+---- Progress 100/100 | current MCS=0 AMPDU=1 BWdec=16 ----
+Done.
+Stats | fallback=0 (0.0%), realDecode=100 (100.0%), qUpdate=0
+StatsDiag | CFOoutliers=11, NoPkt=0, WrongTarget=0, PacketDetectFail=0, HESIGACRC=0, FCSFail=0, Packet2Success=11, DegradedSuccess=100, CtrlFreeze=99
+StatsPER | meanPER=0.000, medianPER=0.000
+StatsTP | meanTput=246.69 Mbps, medianTput=271.06 Mbps, peakTput=271.06 Mbps
+Final state | MCS=0 AMPDU=1 BWdec=16 lastSNR=33.24 dB

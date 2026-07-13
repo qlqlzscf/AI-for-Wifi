@@ -1,0 +1,12 @@
+Run log file: C:\Users\welcome\Desktop\Experimental-Guide-of-Deployment-friendly-RLLA-main copy\Experimental-Guide-of-Deployment-friendly-RLLA-main\X410_CombinedTxRx copy\logs\run_QLOLLA_20260511_183611.log
+Algorithm mode: QLOLLA
+Stable loopback point | TX=0 dB RX=45 dB | strict real-decode mode
+{错误使用 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('X410_runSingleHost_DualRole_AARF', 'C:\Users\welcome\Desktop\Experimental-Guide-of-Deployment-friendly-RLLA-main copy\Experimental-Guide-of-Deployment-friendly-RLLA-main\X410_CombinedTxRx copy\X410_runSingleHost_DualRole_AARF.m', 206)" style="font-weight:bold">X410_runSingleHost_DualRole_AARF</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\Experimental-Guide-of-Deployment-friendly-RLLA-main copy\Experimental-Guide-of-Deployment-friendly-RLLA-main\X410_CombinedTxRx copy\X410_runSingleHost_DualRole_AARF.m',206,0)">第 206 行</a>)
+Transmit failed for configuration: My USRP X410
+This usually means the radio is not connected or the saved configuration is not compatible.
+Please revalidate the radio configuration using Radio Setup (Wireless Testbench).
+
+Original error:
+Unable to find a compatible radio, 'USRP X410', for the saved radio configuration, 'My USRP X410'. Check the radio is connected and revalidate by running the Radio Setup wizard.
+} 
+X410_runSingleHost_DualRole_AARF

@@ -1,0 +1,17 @@
+Run log file: C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\X410_CombinedTxRx_XL - 副本 - 副本\logs\run_QLOLLA_20260611_221159.log
+Algorithm mode: QLOLLA
+Stable loopback point | TX=20 dB RX=25 dB | strict real-decode mode
+No Q-table found, starting fresh.
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.399e-01, Peak=4.580e-01
+{操作在以下过程中被用户终止 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('wlanPacketDetect', 'C:\Users\welcome\Desktop\R2025b\toolbox\wlan\wlan\wlanPacketDetect.m', 97)" style="font-weight:bold">wlanPacketDetect</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\R2025b\toolbox\wlan\wlan\wlanPacketDetect.m',97,0)">第 97 行</a>)
+
+
+位置 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('HEWLANDataRecovery', 'C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\X410_CombinedTxRx_XL - 副本 - 副本\HEWLANDataRecovery.m', 90)" style="font-weight:bold">HEWLANDataRecovery</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\X410_CombinedTxRx_XL - 副本 - 副本\HEWLANDataRecovery.m',90,0)">第 90 行</a>)
+    pktOffset = wlanPacketDetect(rx,chanBW,searchOffset);  %延迟自相关算法
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+位置 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('X410_runSingleHost_DualRole_AARF1', 'C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\X410_CombinedTxRx_XL - 副本 - 副本\X410_runSingleHost_DualRole_AARF1.m', 309)" style="font-weight:bold">X410_runSingleHost_DualRole_AARF1</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\X410_CombinedTxRx_XL - 副本 - 副本\X410_runSingleHost_DualRole_AARF1.m',309,0)">第 309 行</a>)
+        [~,~,rxnumampdu,SNRest,RXTime,~,~,~,ctlinfo,rmsEVMsym,rmsEVMsc,failStage,recoveryDiag] = HEWLANDataRecovery(chanBW,sr,rxDataWave,idleTime);
+                                                                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+clear all; close all; clc;
+X410_runSingleHost_DualRole_AARF

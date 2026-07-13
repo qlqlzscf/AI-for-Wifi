@@ -1,0 +1,66 @@
+Run log file: C:\Users\welcome\Desktop\X410_CombinedTxRx_XL - 副本 - 副本\logs\run_QLOLLA_20260611_221659.log
+Algorithm mode: QLOLLA
+Stable loopback point | TX=20 dB RX=25 dB | strict real-decode mode
+No Q-table found, starting fresh.
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.211e-01, Peak=4.253e-01
+  Estimated CFO: 217.0 Hz
+ RXTIME of packet 1: 116us
+  ChanEst mean|h|: 1.037 | HE-LTF rms: 1.044
+  EVM per-sym: -36.04 dB | EVM per-sc: -36.33 dB
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.20dB
+
+  DataBitrate (Mbps): 3.32
+ack
+new MCS = 10
+Iter 1 | fb=ack | next: MCS=2 AMPDU=2 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.161e-01, Peak=4.421e-01
+  Estimated CFO: 128.7 Hz
+ RXTIME of packet 1: 932us
+  ChanEst mean|h|: 1.040 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -36.3 -34.8 -38.9 -38.0 -38.0 -36.2 -37.2 -37.8 -36.2 dB
+  EVM per-sym: -37.46 dB | EVM per-sc: -37.65 dB
+ Databitrate of packet 1: 20.46(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.67dB
+
+  DataBitrate (Mbps): 20.46
+ack
+new MCS = 11
+Iter 2 | fb=ack | next: MCS=4 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.372e-01, Peak=4.382e-01
+  Estimated CFO:  44.5 Hz
+ RXTIME of packet 1: 500us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -39.6 -39.6 -39.0 -40.0 -40.7 -38.5 -40.6 -40.8 -40.3 dB
+  EVM per-sym: -39.09 dB | EVM per-sc: -39.18 dB
+ Databitrate of packet 1: 38.07(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=41.09dB
+
+  DataBitrate (Mbps): 38.07
+ack
+new MCS = 11
+Iter 3 | fb=ack | next: MCS=6 AMPDU=3 BWdec=2
+{操作在以下过程中被用户终止 wt.internal.uhd.mcos.replay_block/getRecordFullness
+
+
+位置 wt.internal.uhd.mcos.replay_block/verifyFillLevel
+
+位置 wt.internal.uhd.mcos.replay_block/loadTxData
+
+位置 wt.internal.rfnoc.Driver/transmitToStreamViaReplayBlock
+
+位置 wt.internal.rfnoc.Driver/transmitRepeatToStreamViaReplayBlock
+
+位置 wt.internal.baseband_rf.rfnoc.Driver/transmitViaOnboardMemory
+
+位置 wt.internal.basebandTransceiver/transmit
+
+位置 basebandTransceiver/transmit
+
+位置 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('X410_runSingleHost_DualRole_AARF', 'C:\Users\welcome\Desktop\X410_CombinedTxRx_XL - 副本 - 副本\X410_runSingleHost_DualRole_AARF.m', 245)" style="font-weight:bold">X410_runSingleHost_DualRole_AARF</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\X410_CombinedTxRx_XL - 副本 - 副本\X410_runSingleHost_DualRole_AARF.m',245,0)">第 245 行</a>)
+                transmit(bb, currentTxWaveHW, "continuous");
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 

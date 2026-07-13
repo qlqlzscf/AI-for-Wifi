@@ -1,0 +1,1397 @@
+Run log file: C:\Users\welcome\Desktop\X410_CombinedTxRx_XL - 副本 - 副本\logs\run_QLOLLA_20260609_210156.log
+Algorithm mode: QLOLLA
+Stable loopback point | TX=20 dB RX=25 dB | strict real-decode mode
+No Q-table found, starting fresh.
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.197e-01, Peak=4.211e-01
+  Estimated CFO: -319.3 Hz
+ RXTIME of packet 1: 116us
+  ChanEst mean|h|: 1.034 | HE-LTF rms: 1.043
+  EVM per-sym: -32.92 dB | EVM per-sc: -33.30 dB
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.83dB
+
+  DataBitrate (Mbps): 3.32
+ack
+new MCS = 9
+Iter 1 | fb=ack | next: MCS=2 AMPDU=2 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.300e-01, Peak=4.264e-01
+  Estimated CFO: -160.5 Hz
+ RXTIME of packet 1: 932us
+  ChanEst mean|h|: 1.037 | HE-LTF rms: 1.044
+  EVM trend [sym1..mid..end]: -36.3 -37.3 -35.7 -35.8 -36.0 -36.9 -36.8 -36.4 -36.0 dB
+  EVM per-sym: -35.90 dB | EVM per-sc: -36.16 dB
+ Databitrate of packet 1: 20.46(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=37.19dB
+
+  DataBitrate (Mbps): 20.46
+ack
+new MCS = 11
+Iter 2 | fb=ack | next: MCS=4 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.258e-01, Peak=4.346e-01
+  Estimated CFO: -216.4 Hz
+ RXTIME of packet 1: 500us
+  ChanEst mean|h|: 1.036 | HE-LTF rms: 1.044
+  EVM trend [sym1..mid..end]: -34.3 -34.5 -34.6 -32.9 -34.0 -31.7 -35.4 -32.7 -32.9 dB
+  EVM per-sym: -33.34 dB | EVM per-sc: -33.46 dB
+ Databitrate of packet 1: 38.07(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.05dB
+
+  DataBitrate (Mbps): 38.07
+ack
+new MCS = 10
+Iter 3 | fb=ack | next: MCS=6 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.359e-01, Peak=4.479e-01
+  Estimated CFO: 225.7 Hz
+ RXTIME of packet 1: 356us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -32.6 -34.3 -34.7 -30.9 -32.7 -33.9 -32.4 -32.8 -33.1 dB
+  EVM per-sym: -32.88 dB | EVM per-sc: -33.15 dB
+ Databitrate of packet 1: 53.65(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.84dB
+
+  DataBitrate (Mbps): 53.65
+ack
+new MCS = 10
+Iter 4 | fb=ack | next: MCS=8 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.442e-01, Peak=4.244e-01
+  Estimated CFO: 539.3 Hz
+ RXTIME of packet 1: 276us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -24.1 -26.2 -24.2 -27.7 -23.8 -25.6 -24.3 -26.2 -25.8 dB
+  EVM per-sym: -25.40 dB | EVM per-sc: -25.90 dB
+ Databitrate of packet 1: 69.47(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=29.56dB
+
+  DataBitrate (Mbps): 69.47
+ack
+new MCS = 7
+Iter 5 | fb=ack | next: MCS=7 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.473e-01, Peak=4.262e-01
+  Estimated CFO:  81.5 Hz
+ RXTIME of packet 1: 324us
+  ChanEst mean|h|: 1.037 | HE-LTF rms: 1.044
+  EVM trend [sym1..mid..end]: -39.6 -40.2 -39.6 -40.0 -38.2 -40.9 -38.3 -37.1 -39.8 dB
+  EVM per-sym: -38.30 dB | EVM per-sc: -38.48 dB
+ Databitrate of packet 1: 59.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=42.04dB
+
+  DataBitrate (Mbps): 59.21
+ack
+new MCS = 11
+Iter 6 | fb=ack | next: MCS=9 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.468e-01, Peak=4.281e-01
+  Estimated CFO:  72.5 Hz
+ RXTIME of packet 1: 260us
+  ChanEst mean|h|: 1.040 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -36.6 -36.4 -36.7 -36.4 -37.3 -37.0 -36.3 -36.6 -34.8 dB
+  EVM per-sym: -36.32 dB | EVM per-sc: -36.70 dB
+ Databitrate of packet 1: 72.92(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.14dB
+
+  DataBitrate (Mbps): 72.92
+ack
+new MCS = 11
+Iter 7 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.505e-01, Peak=4.706e-01
+  Estimated CFO: 353.5 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.048
+  EVM trend [sym1..mid..end]: -27.0 -30.1 -27.5 -30.2 -30.3 -28.4 -28.6 -27.1 -25.6 dB
+  EVM per-sym: -28.34 dB | EVM per-sc: -29.51 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.33dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 8
+Iter 8 | fb=ack | next: MCS=9 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.517e-01, Peak=4.392e-01
+  Estimated CFO: -480.2 Hz
+ RXTIME of packet 1: 260us
+  ChanEst mean|h|: 1.040 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -28.2 -27.9 -25.5 -27.7 -23.8 -26.2 -27.0 -26.0 -26.4 dB
+  EVM per-sym: -26.62 dB | EVM per-sc: -27.20 dB
+ Databitrate of packet 1: 72.92(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=31.46dB
+
+  DataBitrate (Mbps): 72.92
+ack
+new MCS = 8
+Iter 9 | fb=ack | next: MCS=8 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.546e-01, Peak=4.597e-01
+  Estimated CFO: -338.4 Hz
+ RXTIME of packet 1: 276us
+  ChanEst mean|h|: 1.034 | HE-LTF rms: 1.043
+  EVM trend [sym1..mid..end]: -28.4 -29.9 -30.1 -28.8 -30.4 -29.6 -28.1 -29.4 -29.9 dB
+  EVM per-sym: -29.46 dB | EVM per-sc: -30.03 dB
+ Databitrate of packet 1: 69.47(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.10dB
+
+  DataBitrate (Mbps): 69.47
+ack
+new MCS = 9
+Iter 10 | fb=ack | next: MCS=9 AMPDU=3 BWdec=2
+---- Progress 10/100 | current MCS=9 AMPDU=3 BWdec=2 ----
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.414e-01, Peak=4.442e-01
+  Estimated CFO: -334.9 Hz
+ RXTIME of packet 1: 260us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -28.1 -29.4 -31.1 -28.6 -29.0 -27.1 -29.5 -31.6 -29.1 dB
+  EVM per-sym: -29.45 dB | EVM per-sc: -30.03 dB
+ Databitrate of packet 1: 72.92(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.12dB
+
+  DataBitrate (Mbps): 72.92
+ack
+new MCS = 9
+Iter 11 | fb=ack | next: MCS=9 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.414e-01, Peak=4.433e-01
+  Estimated CFO:  44.9 Hz
+ RXTIME of packet 1: 260us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.046
+  EVM trend [sym1..mid..end]: -39.0 -40.2 -40.0 -37.4 -40.2 -38.0 -38.1 -38.1 -35.5 dB
+  EVM per-sym: -38.39 dB | EVM per-sc: -38.79 dB
+ Databitrate of packet 1: 72.92(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=43.62dB
+
+  DataBitrate (Mbps): 72.92
+ack
+new MCS = 11
+Iter 12 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.488e-01, Peak=4.484e-01
+  Estimated CFO: 358.7 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -28.6 -28.0 -28.7 -25.9 -28.8 -24.9 -26.9 -26.5 -27.2 dB
+  EVM per-sym: -27.22 dB | EVM per-sc: -28.44 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=30.68dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 8
+Iter 13 | fb=ack | next: MCS=9 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.493e-01, Peak=4.393e-01
+  Estimated CFO: -298.9 Hz
+ RXTIME of packet 1: 260us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.046
+  EVM trend [sym1..mid..end]: -28.9 -31.4 -30.5 -29.0 -29.8 -31.7 -30.6 -31.8 -28.9 dB
+  EVM per-sym: -30.12 dB | EVM per-sc: -30.62 dB
+ Databitrate of packet 1: 72.92(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.22dB
+
+  DataBitrate (Mbps): 72.92
+ack
+new MCS = 9
+Iter 14 | fb=ack | next: MCS=9 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.493e-01, Peak=4.388e-01
+  Estimated CFO:  28.1 Hz
+ RXTIME of packet 1: 260us
+  ChanEst mean|h|: 1.035 | HE-LTF rms: 1.043
+  EVM trend [sym1..mid..end]: -39.3 -39.0 -40.2 -39.0 -37.3 -37.7 -37.4 -38.3 -38.2 dB
+  EVM per-sym: -38.56 dB | EVM per-sc: -39.07 dB
+ Databitrate of packet 1: 72.92(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=41.05dB
+
+  DataBitrate (Mbps): 72.92
+ack
+new MCS = 11
+Iter 15 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.420e-01, Peak=4.235e-01
+  Estimated CFO: 174.3 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -33.1 -32.4 -30.3 -34.0 -31.2 -35.8 -34.5 -31.6 -29.5 dB
+  EVM per-sym: -32.10 dB | EVM per-sc: -33.13 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=37.91dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 16 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.420e-01, Peak=4.226e-01
+  Estimated CFO: -303.7 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.034 | HE-LTF rms: 1.043
+  EVM trend [sym1..mid..end]: -30.6 -30.1 -28.0 -29.2 -25.9 -28.1 -31.5 -25.0 -26.3 dB
+  EVM per-sym: -28.11 dB | EVM per-sc: -29.32 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.11dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 9
+Iter 17 | fb=ack | next: MCS=9 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.415e-01, Peak=4.391e-01
+  Estimated CFO: -202.1 Hz
+ RXTIME of packet 1: 260us
+  ChanEst mean|h|: 1.033 | HE-LTF rms: 1.042
+  EVM trend [sym1..mid..end]: -30.3 -32.0 -32.9 -32.6 -34.1 -31.9 -34.4 -32.0 -32.0 dB
+  EVM per-sym: -32.55 dB | EVM per-sc: -33.24 dB
+ Databitrate of packet 1: 72.92(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=37.91dB
+
+  DataBitrate (Mbps): 72.92
+ack
+new MCS = 11
+Iter 18 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.543e-01, Peak=4.398e-01
+  Estimated CFO: 87853.5 Hz
+  ** CFO outlier rejected: 87853.5 Hz **
+  Estimated CFO: 212.2 Hz
+ RXTIME of packet 2: 212us
+  ChanEst mean|h|: 1.033 | HE-LTF rms: 1.042
+  EVM trend [sym1..mid..end]: -33.5 -27.7 -33.1 -31.9 -33.6 -30.8 -29.8 -35.6 -32.4 dB
+  EVM per-sym: -31.50 dB | EVM per-sc: -32.82 dB
+ Databitrate of packet 2: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.24dB
+
+  DataBitrate (Mbps): 45.51
+ack
+new MCS = 3
+Iter 19 | fb=ack | next: MCS=9 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.246e-01, Peak=4.272e-01
+  Estimated CFO: 211.9 Hz
+ RXTIME of packet 1: 260us
+  ChanEst mean|h|: 1.035 | HE-LTF rms: 1.044
+  EVM trend [sym1..mid..end]: -29.5 -32.0 -35.6 -31.9 -30.0 -32.6 -33.0 -33.8 -31.1 dB
+  EVM per-sym: -31.95 dB | EVM per-sc: -32.60 dB
+ Databitrate of packet 1: 72.92(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.76dB
+
+  DataBitrate (Mbps): 72.92
+ack
+new MCS = 11
+Iter 20 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+---- Progress 20/100 | current MCS=11 AMPDU=3 BWdec=2 ----
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.542e-01, Peak=4.473e-01
+** No packet detected(UN) **
+  [Diag] Recovery failed stage=pkt_detect, SNRest=0, rxRMS=1.542e-01, rxPeak=4.473e-01
+new MCS = 11
+arq
+Iter 21 | fb=arq | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.542e-01, Peak=4.460e-01
+  Estimated CFO: -64147.0 Hz
+  ** CFO outlier rejected: -64147.0 Hz **
+  Estimated CFO: 232.1 Hz
+ RXTIME of packet 2: 212us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.046
+  EVM trend [sym1..mid..end]: -28.9 -31.0 -24.5 -33.9 -31.7 -29.5 -32.4 -28.8 -33.4 dB
+  EVM per-sym: -30.17 dB | EVM per-sc: -31.50 dB
+ Databitrate of packet 2: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.95dB
+
+  DataBitrate (Mbps): 45.51
+ack
+new MCS = 3
+Iter 22 | fb=ack | next: MCS=9 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.408e-01, Peak=4.642e-01
+  Estimated CFO: -77.4 Hz
+ RXTIME of packet 1: 260us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.046
+  EVM trend [sym1..mid..end]: -37.0 -40.2 -40.7 -36.9 -32.7 -37.8 -38.1 -40.0 -35.7 dB
+  EVM per-sym: -37.37 dB | EVM per-sc: -38.04 dB
+ Databitrate of packet 1: 72.92(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=42.27dB
+
+  DataBitrate (Mbps): 72.92
+ack
+new MCS = 11
+Iter 23 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.424e-01, Peak=4.284e-01
+  Estimated CFO: -208.6 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.034 | HE-LTF rms: 1.043
+  EVM trend [sym1..mid..end]: -30.4 -30.6 -28.0 -32.6 -34.7 -32.5 -33.8 -30.2 -32.8 dB
+  EVM per-sym: -31.17 dB | EVM per-sc: -32.12 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.93dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 10
+Iter 24 | fb=ack | next: MCS=10 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.502e-01, Peak=4.330e-01
+  Estimated CFO:  62.6 Hz
+ RXTIME of packet 1: 228us
+  ChanEst mean|h|: 1.037 | HE-LTF rms: 1.044
+  EVM trend [sym1..mid..end]: -39.2 -37.7 -37.8 -39.7 -33.5 -32.8 -37.6 -35.6 -39.4 dB
+  EVM per-sym: -36.60 dB | EVM per-sc: -37.57 dB
+ Databitrate of packet 1: 83.86(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=40.13dB
+
+  DataBitrate (Mbps): 83.86
+ack
+new MCS = 11
+Iter 25 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.485e-01, Peak=4.358e-01
+  Estimated CFO:  58.8 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -32.1 -37.7 -36.2 -36.1 -33.3 -38.9 -36.8 -39.5 -39.3 dB
+  EVM per-sym: -36.44 dB | EVM per-sc: -37.65 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=42.78dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 26 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.485e-01, Peak=4.355e-01
+  Estimated CFO:  50.4 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -36.4 -37.8 -36.6 -38.0 -34.1 -37.6 -35.2 -40.0 -38.3 dB
+  EVM per-sym: -36.95 dB | EVM per-sc: -37.72 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=43.50dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 27 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.485e-01, Peak=4.355e-01
+  Estimated CFO:  50.4 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.038 | HE-LTF rms: 1.045
+  EVM trend [sym1..mid..end]: -36.1 -41.7 -35.8 -37.2 -40.3 -41.1 -39.4 -40.8 -41.3 dB
+  EVM per-sym: -38.98 dB | EVM per-sc: -40.14 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=43.17dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 28 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.486e-01, Peak=4.366e-01
+  Estimated CFO: -157.1 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -31.0 -36.6 -32.7 -35.2 -29.4 -34.9 -34.0 -33.9 -34.2 dB
+  EVM per-sym: -33.49 dB | EVM per-sc: -34.39 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=37.04dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 29 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.486e-01, Peak=4.356e-01
+  Estimated CFO: 220.4 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.034 | HE-LTF rms: 1.043
+  EVM trend [sym1..mid..end]: -29.6 -33.3 -30.3 -31.4 -30.2 -35.6 -31.8 -35.0 -33.3 dB
+  EVM per-sym: -32.32 dB | EVM per-sc: -33.18 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.60dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 10
+Iter 30 | fb=ack | next: MCS=10 AMPDU=3 BWdec=2
+---- Progress 30/100 | current MCS=10 AMPDU=3 BWdec=2 ----
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.389e-01, Peak=4.327e-01
+  Estimated CFO: -267.8 Hz
+ RXTIME of packet 1: 228us
+  ChanEst mean|h|: 1.035 | HE-LTF rms: 1.043
+  EVM trend [sym1..mid..end]: -28.0 -27.6 -30.3 -28.1 -27.9 -32.2 -31.3 -31.5 -31.3 dB
+  EVM per-sym: -29.77 dB | EVM per-sc: -31.05 dB
+ Databitrate of packet 1: 83.86(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.79dB
+
+  DataBitrate (Mbps): 83.86
+ack
+new MCS = 10
+Iter 31 | fb=ack | next: MCS=10 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.389e-01, Peak=4.327e-01
+  Estimated CFO:  35.7 Hz
+ RXTIME of packet 1: 228us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.048
+  EVM trend [sym1..mid..end]: -37.9 -37.5 -35.5 -35.7 -36.9 -38.1 -39.4 -37.3 -39.8 dB
+  EVM per-sym: -37.70 dB | EVM per-sc: -38.66 dB
+ Databitrate of packet 1: 83.86(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=43.76dB
+
+  DataBitrate (Mbps): 83.86
+ack
+new MCS = 11
+Iter 32 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.406e-01, Peak=4.327e-01
+  Estimated CFO: 171.0 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.040 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -35.3 -34.9 -34.6 -36.1 -33.4 -34.7 -34.9 -32.9 -33.6 dB
+  EVM per-sym: -34.27 dB | EVM per-sc: -34.86 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.90dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 33 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.406e-01, Peak=4.328e-01
+  Estimated CFO: -122.0 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.046
+  EVM trend [sym1..mid..end]: -32.0 -34.9 -33.7 -36.8 -33.8 -38.4 -38.5 -37.8 -37.0 dB
+  EVM per-sym: -35.65 dB | EVM per-sc: -36.68 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=40.57dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 34 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.406e-01, Peak=4.330e-01
+  Estimated CFO: 280.0 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.034 | HE-LTF rms: 1.043
+  EVM trend [sym1..mid..end]: -30.3 -25.8 -30.9 -33.0 -31.2 -31.8 -32.4 -31.2 -29.5 dB
+  EVM per-sym: -30.58 dB | EVM per-sc: -31.72 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.67dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 10
+Iter 35 | fb=ack | next: MCS=10 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.257e-01, Peak=4.355e-01
+  Estimated CFO: 302.1 Hz
+ RXTIME of packet 1: 228us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -28.6 -30.7 -28.1 -29.4 -29.6 -26.4 -28.1 -27.7 -28.7 dB
+  EVM per-sym: -28.47 dB | EVM per-sc: -29.22 dB
+ Databitrate of packet 1: 83.86(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=31.79dB
+
+  DataBitrate (Mbps): 83.86
+ack
+new MCS = 8
+Iter 36 | fb=ack | next: MCS=8 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.481e-01, Peak=4.670e-01
+  Estimated CFO: -301.9 Hz
+ RXTIME of packet 1: 276us
+  ChanEst mean|h|: 1.034 | HE-LTF rms: 1.042
+  EVM trend [sym1..mid..end]: -31.5 -29.4 -29.6 -31.6 -30.7 -26.8 -28.8 -30.3 -31.6 dB
+  EVM per-sym: -30.11 dB | EVM per-sc: -30.58 dB
+ Databitrate of packet 1: 69.47(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.57dB
+
+  DataBitrate (Mbps): 69.47
+ack
+new MCS = 10
+Iter 37 | fb=ack | next: MCS=10 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.467e-01, Peak=4.363e-01
+  Estimated CFO: 140.8 Hz
+ RXTIME of packet 1: 228us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.046
+  EVM trend [sym1..mid..end]: -35.4 -34.6 -33.8 -33.5 -34.0 -33.3 -35.1 -33.6 -38.1 dB
+  EVM per-sym: -34.44 dB | EVM per-sc: -35.21 dB
+ Databitrate of packet 1: 83.86(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=39.38dB
+
+  DataBitrate (Mbps): 83.86
+ack
+new MCS = 11
+Iter 38 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.387e-01, Peak=4.714e-01
+  Estimated CFO: -457.7 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.034 | HE-LTF rms: 1.043
+  EVM trend [sym1..mid..end]: -26.1 -27.8 -27.0 -25.3 -26.5 -27.3 -27.6 -28.6 -25.2 dB
+  EVM per-sym: -26.63 dB | EVM per-sc: -27.68 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=29.23dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 7
+Iter 39 | fb=ack | next: MCS=9 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.592e-01, Peak=4.330e-01
+  Estimated CFO: -161.6 Hz
+ RXTIME of packet 1: 260us
+  ChanEst mean|h|: 1.034 | HE-LTF rms: 1.042
+  EVM trend [sym1..mid..end]: -34.1 -35.3 -33.0 -34.1 -34.7 -34.5 -35.5 -34.2 -32.7 dB
+  EVM per-sym: -34.14 dB | EVM per-sc: -34.60 dB
+ Databitrate of packet 1: 72.92(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.79dB
+
+  DataBitrate (Mbps): 72.92
+ack
+new MCS = 10
+Iter 40 | fb=ack | next: MCS=10 AMPDU=3 BWdec=2
+---- Progress 40/100 | current MCS=10 AMPDU=3 BWdec=2 ----
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.509e-01, Peak=4.542e-01
+  Estimated CFO: -92.5 Hz
+ RXTIME of packet 1: 228us
+  ChanEst mean|h|: 1.034 | HE-LTF rms: 1.043
+  EVM trend [sym1..mid..end]: -37.7 -38.7 -37.6 -35.9 -37.1 -38.2 -30.5 -38.3 -34.3 dB
+  EVM per-sym: -35.76 dB | EVM per-sc: -37.14 dB
+ Databitrate of packet 1: 83.86(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=41.63dB
+
+  DataBitrate (Mbps): 83.86
+ack
+new MCS = 11
+Iter 41 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.288e-01, Peak=4.220e-01
+  Estimated CFO: -239.9 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.034 | HE-LTF rms: 1.043
+  EVM trend [sym1..mid..end]: -31.1 -30.2 -30.2 -31.3 -29.4 -32.3 -31.9 -32.2 -30.9 dB
+  EVM per-sym: -31.13 dB | EVM per-sc: -31.69 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.47dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 9
+Iter 42 | fb=ack | next: MCS=9 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.345e-01, Peak=4.253e-01
+  Estimated CFO: 118.6 Hz
+ RXTIME of packet 1: 260us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.045
+  EVM trend [sym1..mid..end]: -34.1 -33.0 -32.5 -34.2 -36.5 -30.6 -36.1 -35.5 -34.3 dB
+  EVM per-sym: -34.40 dB | EVM per-sc: -34.90 dB
+ Databitrate of packet 1: 72.92(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=37.10dB
+
+  DataBitrate (Mbps): 72.92
+ack
+new MCS = 11
+Iter 43 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.548e-01, Peak=4.932e-01
+  Estimated CFO: -281.1 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.034 | HE-LTF rms: 1.043
+  EVM trend [sym1..mid..end]: -31.2 -29.1 -30.2 -28.9 -29.7 -29.8 -28.8 -30.8 -30.0 dB
+  EVM per-sym: -29.93 dB | EVM per-sc: -30.52 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.65dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 9
+Iter 44 | fb=ack | next: MCS=9 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.396e-01, Peak=4.309e-01
+  Estimated CFO: 210.8 Hz
+ RXTIME of packet 1: 260us
+  ChanEst mean|h|: 1.040 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -30.2 -30.7 -32.6 -31.9 -30.7 -33.6 -34.9 -32.7 -32.0 dB
+  EVM per-sym: -32.38 dB | EVM per-sc: -33.01 dB
+ Databitrate of packet 1: 72.92(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.23dB
+
+  DataBitrate (Mbps): 72.92
+ack
+new MCS = 10
+Iter 45 | fb=ack | next: MCS=10 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.509e-01, Peak=4.335e-01
+  Estimated CFO: -102590.8 Hz
+  ** CFO outlier rejected: -102590.8 Hz **
+  Estimated CFO: -199.2 Hz
+ RXTIME of packet 2: 228us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.048
+  EVM trend [sym1..mid..end]: -33.1 -35.3 -32.3 -31.2 -33.5 -32.6 -33.8 -33.2 -32.5 dB
+  EVM per-sym: -32.74 dB | EVM per-sc: -33.34 dB
+ Databitrate of packet 2: 83.86(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.07dB
+
+  DataBitrate (Mbps): 41.93
+ack
+new MCS = 3
+Iter 46 | fb=ack | next: MCS=8 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.286e-01, Peak=4.329e-01
+  Estimated CFO: -110.5 Hz
+ RXTIME of packet 1: 276us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.046
+  EVM trend [sym1..mid..end]: -34.9 -36.6 -35.4 -34.2 -33.0 -35.9 -35.3 -37.0 -36.6 dB
+  EVM per-sym: -35.49 dB | EVM per-sc: -35.83 dB
+ Databitrate of packet 1: 69.47(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.16dB
+
+  DataBitrate (Mbps): 69.47
+ack
+new MCS = 11
+Iter 47 | fb=ack | next: MCS=10 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.490e-01, Peak=4.601e-01
+  Estimated CFO: -285.3 Hz
+ RXTIME of packet 1: 228us
+  ChanEst mean|h|: 1.035 | HE-LTF rms: 1.043
+  EVM trend [sym1..mid..end]: -29.9 -30.7 -31.5 -29.5 -30.8 -32.4 -28.4 -29.7 -28.7 dB
+  EVM per-sym: -30.11 dB | EVM per-sc: -30.82 dB
+ Databitrate of packet 1: 83.86(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.00dB
+
+  DataBitrate (Mbps): 83.86
+ack
+new MCS = 9
+Iter 48 | fb=ack | next: MCS=9 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.521e-01, Peak=4.914e-01
+  Estimated CFO:  -6.0 Hz
+ RXTIME of packet 1: 260us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.046
+  EVM trend [sym1..mid..end]: -39.9 -38.7 -39.5 -38.8 -39.1 -39.7 -35.3 -39.7 -37.5 dB
+  EVM per-sym: -38.33 dB | EVM per-sc: -38.81 dB
+ Databitrate of packet 1: 72.92(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=40.67dB
+
+  DataBitrate (Mbps): 72.92
+ack
+new MCS = 11
+Iter 49 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.325e-01, Peak=4.354e-01
+  Estimated CFO:  77.6 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.034 | HE-LTF rms: 1.043
+  EVM trend [sym1..mid..end]: -37.0 -34.8 -38.5 -37.8 -36.5 -34.1 -34.7 -36.2 -38.1 dB
+  EVM per-sym: -36.34 dB | EVM per-sc: -37.43 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=41.93dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 50 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+---- Progress 50/100 | current MCS=11 AMPDU=3 BWdec=2 ----
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.326e-01, Peak=4.350e-01
+  Estimated CFO: 138.0 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -35.4 -36.1 -35.2 -33.0 -34.8 -34.6 -33.9 -35.1 -35.9 dB
+  EVM per-sym: -34.95 dB | EVM per-sc: -35.55 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.75dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 51 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.326e-01, Peak=4.345e-01
+  Estimated CFO: -136.1 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.046
+  EVM trend [sym1..mid..end]: -36.1 -35.6 -35.6 -36.7 -34.3 -32.3 -29.1 -35.2 -35.4 dB
+  EVM per-sym: -33.99 dB | EVM per-sc: -34.63 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.81dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 52 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.325e-01, Peak=4.357e-01
+  Estimated CFO: -232.9 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.046
+  EVM trend [sym1..mid..end]: -33.3 -32.1 -31.8 -33.7 -34.4 -32.6 -28.2 -34.3 -35.1 dB
+  EVM per-sym: -32.65 dB | EVM per-sc: -33.36 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.22dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 53 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.325e-01, Peak=4.353e-01
+  Estimated CFO: 376.4 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.034 | HE-LTF rms: 1.042
+  EVM trend [sym1..mid..end]: -29.7 -28.8 -29.7 -29.2 -28.2 -26.6 -25.4 -29.5 -28.9 dB
+  EVM per-sym: -28.53 dB | EVM per-sc: -29.34 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=30.79dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 8
+Iter 54 | fb=ack | next: MCS=9 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.525e-01, Peak=4.380e-01
+  Estimated CFO: 109.4 Hz
+ RXTIME of packet 1: 260us
+  ChanEst mean|h|: 1.038 | HE-LTF rms: 1.045
+  EVM trend [sym1..mid..end]: -36.4 -32.6 -35.5 -38.3 -36.5 -34.5 -38.2 -37.9 -37.5 dB
+  EVM per-sym: -35.76 dB | EVM per-sc: -36.29 dB
+ Databitrate of packet 1: 72.92(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=37.77dB
+
+  DataBitrate (Mbps): 72.92
+ack
+new MCS = 11
+Iter 55 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.362e-01, Peak=4.274e-01
+  Estimated CFO: -81707.4 Hz
+  ** CFO outlier rejected: -81707.4 Hz **
+  Estimated CFO:   2.2 Hz
+ RXTIME of packet 2: 212us
+  ChanEst mean|h|: 1.035 | HE-LTF rms: 1.044
+  EVM trend [sym1..mid..end]: -37.8 -37.9 -40.2 -35.2 -38.4 -36.1 -36.5 -38.6 -39.7 dB
+  EVM per-sym: -37.56 dB | EVM per-sc: -38.62 dB
+ Databitrate of packet 2: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=42.43dB
+
+  DataBitrate (Mbps): 45.51
+ack
+new MCS = 4
+Iter 56 | fb=ack | next: MCS=9 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.429e-01, Peak=4.469e-01
+  Estimated CFO: -175.3 Hz
+ RXTIME of packet 1: 260us
+  ChanEst mean|h|: 1.034 | HE-LTF rms: 1.042
+  EVM trend [sym1..mid..end]: -35.3 -28.6 -31.1 -31.0 -30.7 -33.7 -34.2 -29.9 -33.8 dB
+  EVM per-sym: -32.37 dB | EVM per-sc: -32.97 dB
+ Databitrate of packet 1: 72.92(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.20dB
+
+  DataBitrate (Mbps): 72.92
+ack
+new MCS = 11
+Iter 57 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.442e-01, Peak=4.858e-01
+  Estimated CFO: 164.8 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.048
+  EVM trend [sym1..mid..end]: -35.6 -34.4 -35.5 -31.2 -31.6 -36.1 -32.6 -35.9 -34.0 dB
+  EVM per-sym: -33.94 dB | EVM per-sc: -34.63 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=39.29dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 58 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.442e-01, Peak=4.853e-01
+  Estimated CFO: -418.5 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.038 | HE-LTF rms: 1.045
+  EVM trend [sym1..mid..end]: -28.9 -27.5 -27.5 -28.0 -27.2 -27.1 -28.0 -28.3 -27.1 dB
+  EVM per-sym: -27.84 dB | EVM per-sc: -28.56 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=31.78dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 9
+Iter 59 | fb=ack | next: MCS=9 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.441e-01, Peak=4.282e-01
+  Estimated CFO:  73.8 Hz
+ RXTIME of packet 1: 260us
+  ChanEst mean|h|: 1.034 | HE-LTF rms: 1.043
+  EVM trend [sym1..mid..end]: -35.1 -38.1 -35.4 -37.1 -36.5 -38.6 -35.7 -35.5 -38.5 dB
+  EVM per-sym: -36.74 dB | EVM per-sc: -37.18 dB
+ Databitrate of packet 1: 72.92(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=39.97dB
+
+  DataBitrate (Mbps): 72.92
+ack
+new MCS = 11
+Iter 60 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+---- Progress 60/100 | current MCS=11 AMPDU=3 BWdec=2 ----
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.429e-01, Peak=4.805e-01
+  Estimated CFO:  71.0 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.034 | HE-LTF rms: 1.043
+  EVM trend [sym1..mid..end]: -36.8 -36.4 -34.8 -36.6 -33.7 -36.4 -34.9 -36.8 -34.5 dB
+  EVM per-sym: -35.80 dB | EVM per-sc: -37.33 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=41.49dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 61 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.429e-01, Peak=4.809e-01
+  Estimated CFO: -66182.9 Hz
+  ** CFO outlier rejected: -66182.9 Hz **
+  Estimated CFO: -200.0 Hz
+ RXTIME of packet 2: 212us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.046
+  EVM trend [sym1..mid..end]: -33.9 -28.6 -32.7 -35.9 -33.6 -30.7 -33.3 -31.8 -31.8 dB
+  EVM per-sym: -32.02 dB | EVM per-sc: -33.25 dB
+ Databitrate of packet 2: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.44dB
+
+  DataBitrate (Mbps): 45.51
+ack
+new MCS = 3
+Iter 62 | fb=ack | next: MCS=9 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.509e-01, Peak=4.529e-01
+  Estimated CFO: -257.8 Hz
+ RXTIME of packet 1: 260us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -32.7 -33.1 -31.1 -32.6 -36.6 -30.4 -31.7 -28.6 -31.4 dB
+  EVM per-sym: -31.71 dB | EVM per-sc: -32.25 dB
+ Databitrate of packet 1: 72.92(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.05dB
+
+  DataBitrate (Mbps): 72.92
+ack
+new MCS = 11
+Iter 63 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.254e-01, Peak=4.258e-01
+  Estimated CFO: -66.3 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.046
+  EVM trend [sym1..mid..end]: -37.7 -36.2 -37.2 -38.8 -37.4 -37.8 -39.2 -38.0 -33.5 dB
+  EVM per-sym: -37.31 dB | EVM per-sc: -37.95 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=41.72dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 64 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.254e-01, Peak=4.262e-01
+  Estimated CFO: 30151.5 Hz
+  ** CFO outlier rejected: 30151.5 Hz **
+  Estimated CFO: 220.7 Hz
+ RXTIME of packet 2: 212us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -32.8 -29.9 -36.4 -32.4 -32.6 -31.5 -25.9 -33.8 -31.0 dB
+  EVM per-sym: -31.22 dB | EVM per-sc: -32.55 dB
+ Databitrate of packet 2: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.01dB
+
+  DataBitrate (Mbps): 45.51
+ack
+new MCS = 3
+Iter 65 | fb=ack | next: MCS=9 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.343e-01, Peak=4.345e-01
+  Estimated CFO: 285.7 Hz
+ RXTIME of packet 1: 260us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.046
+  EVM trend [sym1..mid..end]: -31.9 -32.3 -30.2 -30.7 -28.9 -30.8 -32.0 -30.7 -29.9 dB
+  EVM per-sym: -30.54 dB | EVM per-sc: -31.08 dB
+ Databitrate of packet 1: 72.92(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.77dB
+
+  DataBitrate (Mbps): 72.92
+ack
+new MCS = 10
+Iter 66 | fb=ack | next: MCS=10 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.592e-01, Peak=4.559e-01
+  Estimated CFO: 125.8 Hz
+ RXTIME of packet 1: 228us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -36.0 -35.9 -34.0 -33.4 -37.5 -36.7 -36.6 -35.0 -36.5 dB
+  EVM per-sym: -35.31 dB | EVM per-sc: -36.02 dB
+ Databitrate of packet 1: 83.86(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.76dB
+
+  DataBitrate (Mbps): 83.86
+ack
+new MCS = 11
+Iter 67 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.337e-01, Peak=4.231e-01
+  Estimated CFO: -68.1 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.040 | HE-LTF rms: 1.048
+  EVM trend [sym1..mid..end]: -35.4 -34.5 -36.8 -36.4 -39.2 -34.6 -38.9 -38.5 -36.1 dB
+  EVM per-sym: -36.60 dB | EVM per-sc: -37.55 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=41.31dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 68 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.337e-01, Peak=4.219e-01
+  Estimated CFO: 133.9 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.045
+  EVM trend [sym1..mid..end]: -29.3 -32.9 -35.7 -35.6 -35.3 -35.7 -32.2 -34.1 -35.0 dB
+  EVM per-sym: -33.79 dB | EVM per-sc: -34.81 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.13dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 69 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.337e-01, Peak=4.223e-01
+** No packet detected(UN) **
+  [Diag] Recovery failed stage=pkt_detect, SNRest=0, rxRMS=1.337e-01, rxPeak=4.223e-01
+new MCS = 11
+arq
+Iter 70 | fb=arq | next: MCS=11 AMPDU=3 BWdec=2
+---- Progress 70/100 | current MCS=11 AMPDU=3 BWdec=2 ----
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.337e-01, Peak=4.233e-01
+  Estimated CFO: -62813.3 Hz
+  ** CFO outlier rejected: -62813.3 Hz **
+  Estimated CFO: -64.8 Hz
+ RXTIME of packet 2: 212us
+  ChanEst mean|h|: 1.040 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -37.1 -36.2 -35.3 -39.8 -34.9 -36.1 -37.8 -35.3 -38.7 dB
+  EVM per-sym: -36.86 dB | EVM per-sc: -37.88 dB
+ Databitrate of packet 2: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=42.47dB
+
+  DataBitrate (Mbps): 45.51
+ack
+new MCS = 4
+Iter 71 | fb=ack | next: MCS=9 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.255e-01, Peak=4.382e-01
+  Estimated CFO: -161.9 Hz
+ RXTIME of packet 1: 260us
+  ChanEst mean|h|: 1.034 | HE-LTF rms: 1.043
+  EVM trend [sym1..mid..end]: -35.8 -31.4 -36.9 -35.9 -35.2 -35.0 -38.2 -31.6 -32.0 dB
+  EVM per-sym: -34.74 dB | EVM per-sc: -35.07 dB
+ Databitrate of packet 1: 72.92(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=39.50dB
+
+  DataBitrate (Mbps): 72.92
+ack
+new MCS = 11
+Iter 72 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.406e-01, Peak=4.532e-01
+  Estimated CFO:  16.5 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.035 | HE-LTF rms: 1.044
+  EVM trend [sym1..mid..end]: -36.6 -36.0 -34.8 -39.3 -36.6 -40.1 -40.4 -38.8 -39.9 dB
+  EVM per-sym: -38.02 dB | EVM per-sc: -38.88 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=41.10dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 73 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.406e-01, Peak=4.546e-01
+  Estimated CFO: -35.4 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.048
+  EVM trend [sym1..mid..end]: -40.0 -37.2 -39.3 -38.6 -39.5 -39.4 -36.6 -41.1 -40.8 dB
+  EVM per-sym: -39.14 dB | EVM per-sc: -39.77 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=42.70dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 74 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.406e-01, Peak=4.534e-01
+  Estimated CFO:  41.9 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -34.3 -36.3 -37.3 -40.0 -39.1 -35.4 -37.8 -38.4 -39.4 dB
+  EVM per-sym: -37.44 dB | EVM per-sc: -38.26 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=41.81dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 75 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.406e-01, Peak=4.529e-01
+  Estimated CFO: -29.7 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.046
+  EVM trend [sym1..mid..end]: -36.4 -33.5 -37.7 -37.9 -39.1 -38.2 -38.3 -39.1 -40.0 dB
+  EVM per-sym: -37.65 dB | EVM per-sc: -38.72 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=40.42dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 76 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.406e-01, Peak=4.532e-01
+  Estimated CFO: 118.8 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -36.4 -31.7 -32.0 -35.2 -36.3 -33.1 -39.1 -37.1 -34.8 dB
+  EVM per-sym: -34.76 dB | EVM per-sc: -35.67 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=39.34dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 77 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.406e-01, Peak=4.545e-01
+** No packet detected **
+  [Diag] Recovery failed stage=pkt_detect, SNRest=0, rxRMS=1.406e-01, rxPeak=4.545e-01
+new MCS = 11
+arq
+Iter 78 | fb=arq | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.406e-01, Peak=4.536e-01
+  Estimated CFO: -233.4 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -31.0 -32.2 -28.0 -35.0 -33.0 -33.1 -35.0 -33.1 -33.7 dB
+  EVM per-sym: -32.40 dB | EVM per-sc: -33.37 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.85dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 79 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.406e-01, Peak=4.530e-01
+  Estimated CFO: -76.0 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.034 | HE-LTF rms: 1.043
+  EVM trend [sym1..mid..end]: -36.0 -32.8 -35.9 -33.0 -39.5 -37.7 -38.0 -35.8 -38.7 dB
+  EVM per-sym: -36.29 dB | EVM per-sc: -37.13 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=43.04dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 80 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+---- Progress 80/100 | current MCS=11 AMPDU=3 BWdec=2 ----
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.406e-01, Peak=4.531e-01
+  Estimated CFO: -11.3 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.036 | HE-LTF rms: 1.044
+  EVM trend [sym1..mid..end]: -34.1 -36.6 -33.9 -39.2 -40.4 -39.6 -40.8 -38.6 -41.0 dB
+  EVM per-sym: -37.78 dB | EVM per-sc: -38.77 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=42.53dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 81 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.406e-01, Peak=4.535e-01
+  Estimated CFO: 182.0 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.034 | HE-LTF rms: 1.042
+  EVM trend [sym1..mid..end]: -32.1 -29.9 -34.6 -36.6 -33.7 -31.0 -34.8 -35.1 -35.1 dB
+  EVM per-sym: -33.40 dB | EVM per-sc: -34.45 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=39.09dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 82 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.406e-01, Peak=4.531e-01
+  Estimated CFO: 86053.9 Hz
+  ** CFO outlier rejected: 86053.9 Hz **
+  Estimated CFO: 225.9 Hz
+ RXTIME of packet 2: 212us
+  ChanEst mean|h|: 1.033 | HE-LTF rms: 1.043
+  EVM trend [sym1..mid..end]: -32.8 -30.2 -29.5 -31.2 -33.3 -31.6 -34.0 -31.6 -31.6 dB
+  EVM per-sym: -31.69 dB | EVM per-sc: -32.61 dB
+ Databitrate of packet 2: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.81dB
+
+  DataBitrate (Mbps): 45.51
+ack
+new MCS = 3
+Iter 83 | fb=ack | next: MCS=9 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.498e-01, Peak=4.737e-01
+  Estimated CFO: 247.2 Hz
+ RXTIME of packet 1: 260us
+  ChanEst mean|h|: 1.034 | HE-LTF rms: 1.042
+  EVM trend [sym1..mid..end]: -30.0 -33.7 -30.3 -32.5 -30.6 -30.4 -32.6 -31.1 -30.2 dB
+  EVM per-sym: -30.94 dB | EVM per-sc: -31.52 dB
+ Databitrate of packet 1: 72.92(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.87dB
+
+  DataBitrate (Mbps): 72.92
+ack
+new MCS = 10
+Iter 84 | fb=ack | next: MCS=10 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.577e-01, Peak=4.728e-01
+  Estimated CFO: -208.1 Hz
+ RXTIME of packet 1: 228us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -33.0 -30.3 -30.7 -27.3 -34.1 -28.9 -31.8 -33.0 -32.8 dB
+  EVM per-sym: -31.07 dB | EVM per-sc: -32.08 dB
+ Databitrate of packet 1: 83.86(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.65dB
+
+  DataBitrate (Mbps): 83.86
+ack
+new MCS = 11
+Iter 85 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.508e-01, Peak=4.400e-01
+  Estimated CFO: -251.1 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -33.4 -33.1 -31.8 -33.0 -32.3 -30.7 -30.1 -30.9 -29.0 dB
+  EVM per-sym: -31.39 dB | EVM per-sc: -32.17 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=34.81dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 10
+Iter 86 | fb=ack | next: MCS=10 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.326e-01, Peak=4.636e-01
+  Estimated CFO: -200.1 Hz
+ RXTIME of packet 1: 228us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -29.8 -34.6 -32.1 -31.4 -32.6 -32.4 -36.3 -32.1 -28.8 dB
+  EVM per-sym: -32.03 dB | EVM per-sc: -32.88 dB
+ Databitrate of packet 1: 83.86(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.29dB
+
+  DataBitrate (Mbps): 83.86
+ack
+new MCS = 11
+Iter 87 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.485e-01, Peak=4.288e-01
+  Estimated CFO:  96.7 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.046
+  EVM trend [sym1..mid..end]: -34.5 -37.6 -39.9 -36.3 -33.4 -36.8 -35.9 -38.1 -37.7 dB
+  EVM per-sym: -36.30 dB | EVM per-sc: -37.06 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=41.61dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 88 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.485e-01, Peak=4.284e-01
+  Estimated CFO: -306.8 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.038 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -29.7 -30.3 -31.4 -29.8 -28.5 -30.6 -30.0 -31.5 -29.5 dB
+  EVM per-sym: -29.98 dB | EVM per-sc: -30.72 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=32.45dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 9
+Iter 89 | fb=ack | next: MCS=9 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.432e-01, Peak=4.417e-01
+  Estimated CFO: 212.3 Hz
+ RXTIME of packet 1: 260us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.046
+  EVM trend [sym1..mid..end]: -32.3 -34.9 -33.1 -32.1 -33.1 -33.1 -33.2 -32.6 -31.5 dB
+  EVM per-sym: -33.21 dB | EVM per-sc: -33.79 dB
+ Databitrate of packet 1: 72.92(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=37.98dB
+
+  DataBitrate (Mbps): 72.92
+ack
+new MCS = 11
+Iter 90 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+---- Progress 90/100 | current MCS=11 AMPDU=3 BWdec=2 ----
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.284e-01, Peak=4.234e-01
+  Estimated CFO: 316.2 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.038 | HE-LTF rms: 1.045
+  EVM trend [sym1..mid..end]: -30.2 -30.2 -29.6 -30.0 -27.6 -30.2 -28.0 -31.8 -28.3 dB
+  EVM per-sym: -29.51 dB | EVM per-sc: -30.64 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=33.62dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 10
+Iter 91 | fb=ack | next: MCS=10 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.537e-01, Peak=4.433e-01
+  Estimated CFO: -98.2 Hz
+ RXTIME of packet 1: 228us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -32.3 -35.5 -38.4 -37.9 -35.3 -35.5 -36.1 -38.2 -38.5 dB
+  EVM per-sym: -36.37 dB | EVM per-sc: -37.17 dB
+ Databitrate of packet 1: 83.86(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=41.39dB
+
+  DataBitrate (Mbps): 83.86
+ack
+new MCS = 11
+Iter 92 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.359e-01, Peak=4.214e-01
+  Estimated CFO: 195.2 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.046
+  EVM trend [sym1..mid..end]: -32.6 -29.8 -35.6 -30.1 -32.5 -30.2 -33.6 -33.9 -31.4 dB
+  EVM per-sym: -32.00 dB | EVM per-sc: -32.82 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.92dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 93 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.359e-01, Peak=4.220e-01
+  Estimated CFO:  67.2 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.036 | HE-LTF rms: 1.044
+  EVM trend [sym1..mid..end]: -38.7 -36.1 -38.0 -34.4 -35.8 -36.0 -37.0 -38.7 -36.4 dB
+  EVM per-sym: -36.67 dB | EVM per-sc: -37.34 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=39.66dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 94 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.359e-01, Peak=4.225e-01
+  Estimated CFO: -63876.3 Hz
+  ** CFO outlier rejected: -63876.3 Hz **
+  Estimated CFO: 201.5 Hz
+ RXTIME of packet 2: 212us
+  ChanEst mean|h|: 1.040 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -34.1 -32.9 -32.2 -30.4 -32.2 -28.2 -34.6 -32.0 -32.3 dB
+  EVM per-sym: -31.81 dB | EVM per-sc: -32.62 dB
+ Databitrate of packet 2: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=35.87dB
+
+  DataBitrate (Mbps): 45.51
+ack
+new MCS = 3
+Iter 95 | fb=ack | next: MCS=9 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.565e-01, Peak=4.731e-01
+  Estimated CFO: 209.4 Hz
+ RXTIME of packet 1: 260us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.047
+  EVM trend [sym1..mid..end]: -31.2 -33.8 -31.6 -33.5 -34.1 -33.5 -33.5 -33.0 -32.8 dB
+  EVM per-sym: -32.98 dB | EVM per-sc: -33.57 dB
+ Databitrate of packet 1: 72.92(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=36.97dB
+
+  DataBitrate (Mbps): 72.92
+ack
+new MCS = 11
+Iter 96 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.469e-01, Peak=4.293e-01
+  Estimated CFO: 140.9 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.034 | HE-LTF rms: 1.043
+  EVM trend [sym1..mid..end]: -31.8 -29.2 -36.0 -38.5 -30.1 -36.9 -33.1 -36.5 -34.8 dB
+  EVM per-sym: -33.44 dB | EVM per-sc: -34.83 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=38.92dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 97 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.469e-01, Peak=4.278e-01
+** No packet detected **
+  [Diag] Recovery failed stage=pkt_detect, SNRest=0, rxRMS=1.469e-01, rxPeak=4.278e-01
+new MCS = 11
+arq
+Iter 98 | fb=arq | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.469e-01, Peak=4.291e-01
+  Estimated CFO: 136.7 Hz
+ RXTIME of packet 1: 212us
+  ChanEst mean|h|: 1.039 | HE-LTF rms: 1.048
+  EVM trend [sym1..mid..end]: -36.6 -32.7 -35.9 -33.5 -30.1 -39.0 -32.9 -33.7 -33.4 dB
+  EVM per-sym: -33.85 dB | EVM per-sc: -35.27 dB
+ Databitrate of packet 1: 91.03(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=39.08dB
+
+  DataBitrate (Mbps): 91.03
+ack
+new MCS = 11
+Iter 99 | fb=ack | next: MCS=11 AMPDU=3 BWdec=2
+  Gains: TX=20 dB, RX=25 dB | RX diag: RMS=1.470e-01, Peak=4.281e-01
+** No packet detected **
+  [Diag] Recovery failed stage=pkt_detect, SNRest=0, rxRMS=1.470e-01, rxPeak=4.281e-01
+new MCS = 11
+arq
+Iter 100 | fb=arq | next: MCS=11 AMPDU=3 BWdec=2
+---- Progress 100/100 | current MCS=11 AMPDU=3 BWdec=2 ----
+Done.
+Stats | fallback=0 (0.0%), realDecode=95 (95.0%), qUpdate=95
+StatsDiag | CFOoutliers=0, NoPkt=0, WrongTarget=10, PacketDetectFail=0
+StatsPER | meanPER=0.050, medianPER=0.000
+StatsTP | meanTput=76.42 Mbps, medianTput=86.94 Mbps, peakTput=158.90 Mbps
+Final state | MCS=11 AMPDU=3 BWdec=2 lastSNR=0.00 dB

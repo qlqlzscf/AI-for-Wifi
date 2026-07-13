@@ -1,0 +1,31 @@
+Run log file: C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\X410_CombinedTxRx_XL - 副本 - 副本\logs\run_QLOLLA_20260611_222737.log
+Algorithm mode: QLOLLA
+Stable loopback point | TX=20 dB RX=25 dB | strict real-decode mode
+No Q-table found, starting fresh.
+  [TxDiag] iter=1 TXperiod=118624 hwSamp/75919 wlanSamp | MCS=0 AMPDU=1 BWdec=16
+{操作在以下过程中被用户终止 wt.internal.uhd.mcos.block/makeBlock
+
+
+位置 wt.internal.uhd.mcos.radio_block
+
+位置 wt.internal.uhd.mcos.device/getRadioBlock
+
+位置 wt.internal.uhd.mcos.device/getBlock
+
+位置 wt.internal.rfnoc.Driver/validateAntennas
+
+位置 wt.internal.rfnoc.Driver/configure
+
+位置 wt.internal.baseband_rf.rfnoc.Driver/configure
+
+位置 wt.internal.AppBase/setupImpl
+
+位置 wt.internal.app.PropertyHelper/applyAllProperties
+
+位置 basebandTransceiver/transmit
+
+位置 <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('X410_runSingleHost_DualRole_AARF', 'C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\X410_CombinedTxRx_XL - 副本 - 副本\X410_runSingleHost_DualRole_AARF.m', 258)" style="font-weight:bold">X410_runSingleHost_DualRole_AARF</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\X410_CombinedTxRx_XL\X410_CombinedTxRx_XL - 副本 - 副本\X410_runSingleHost_DualRole_AARF.m',258,0)">第 258 行</a>)
+                transmit(bb, currentTxWaveHW, "continuous");
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+X410_runSingleHost_DualRole_AARF

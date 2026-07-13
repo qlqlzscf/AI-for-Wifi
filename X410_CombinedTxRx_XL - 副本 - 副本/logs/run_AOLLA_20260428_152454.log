@@ -1,0 +1,1497 @@
+Run log file: C:\Users\welcome\Desktop\Experimental-Guide-of-Deployment-friendly-RLLA-main copy\Experimental-Guide-of-Deployment-friendly-RLLA-main\X410_CombinedTxRx copy\logs\run_AOLLA_20260428_152454.log
+Algorithm mode: AOLLA
+Stable loopback point | TX=0 dB RX=45 dB | strict real-decode mode
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.085e-02, Peak=4.056e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.71dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=10.81dB
+
+ new MCS = 1
+arq
+Iter 1 | fb=arq | next: MCS=1 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.178e-02, Peak=3.932e-02
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 4.56(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=14.74dB
+
+  RXTIME of packet 2: 1348us
+ Databitrate of packet 2: 13.90(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=14.26dB
+
+  RXTIME of packet 3: 84us
+ Databitrate of packet 3: 4.56(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=15.08dB
+
+  DataBitrate (Mbps): 7.67
+ack
+new MCS = 2
+Iter 2 | fb=ack | next: MCS=2 AMPDU=4 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.145e-02, Peak=3.777e-02
+ RXTIME of packet 1: 932us
+ Databitrate of packet 1: 20.46(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.44dB
+
+  RXTIME of packet 2: 932us
+ Databitrate of packet 2: 20.46(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.37dB
+
+  DataBitrate (Mbps): 20.46
+ack
+new MCS = 1
+Iter 3 | fb=ack | next: MCS=1 AMPDU=3 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.093e-02, Peak=3.798e-02
+ RXTIME of packet 1: 1364us
+ Databitrate of packet 1: 13.99(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.29dB
+
+  RXTIME of packet 2: 1364us
+ Databitrate of packet 2: 13.99(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.28dB
+
+  DataBitrate (Mbps): 13.99
+ack
+new MCS = 1
+Iter 4 | fb=ack | next: MCS=1 AMPDU=3 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.093e-02, Peak=3.805e-02
+ RXTIME of packet 1: 1364us
+ Databitrate of packet 1: 13.99(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.47dB
+
+  RXTIME of packet 2: 1364us
+ Databitrate of packet 2: 13.99(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.79dB
+
+  DataBitrate (Mbps): 13.99
+ack
+new MCS = 1
+Iter 5 | fb=ack | next: MCS=1 AMPDU=3 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.093e-02, Peak=3.811e-02
+ RXTIME of packet 1: 1364us
+ Databitrate of packet 1: 13.99(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.98dB
+
+  RXTIME of packet 2: 1364us
+ Databitrate of packet 2: 13.99(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.38dB
+
+  DataBitrate (Mbps): 13.99
+ack
+new MCS = 1
+Iter 6 | fb=ack | next: MCS=1 AMPDU=3 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.092e-02, Peak=3.788e-02
+ RXTIME of packet 1: 1364us
+ Databitrate of packet 1: 13.99(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.27dB
+
+  RXTIME of packet 2: 1364us
+ Databitrate of packet 2: 13.99(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.61dB
+
+  DataBitrate (Mbps): 13.99
+ack
+new MCS = 1
+Iter 7 | fb=ack | next: MCS=1 AMPDU=3 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.093e-02, Peak=3.837e-02
+ RXTIME of packet 1: 1364us
+ Databitrate of packet 1: 13.99(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.53dB
+
+  RXTIME of packet 2: 1364us
+ Databitrate of packet 2: 13.99(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.60dB
+
+  DataBitrate (Mbps): 13.99
+ack
+new MCS = 1
+Iter 8 | fb=ack | next: MCS=1 AMPDU=3 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.093e-02, Peak=3.813e-02
+ RXTIME of packet 1: 1364us
+ Databitrate of packet 1: 13.99(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.57dB
+
+  RXTIME of packet 2: 1364us
+ Databitrate of packet 2: 13.99(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.00dB
+
+  DataBitrate (Mbps): 13.99
+ack
+new MCS = 1
+Iter 9 | fb=ack | next: MCS=1 AMPDU=3 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.093e-02, Peak=3.826e-02
+ RXTIME of packet 1: 1364us
+ Databitrate of packet 1: 13.99(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.56dB
+
+  RXTIME of packet 2: 1364us
+ Databitrate of packet 2: 13.99(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.77dB
+
+  DataBitrate (Mbps): 13.99
+ack
+new MCS = 1
+Iter 10 | fb=ack | next: MCS=1 AMPDU=3 BWdec=2
+---- Progress 10/100 | current MCS=1 AMPDU=3 BWdec=2 ----
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.093e-02, Peak=3.834e-02
+ RXTIME of packet 1: 1364us
+ Databitrate of packet 1: 13.99(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.00dB
+
+  RXTIME of packet 2: 1364us
+ Databitrate of packet 2: 13.99(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.08dB
+
+  DataBitrate (Mbps): 13.99
+ack
+new MCS = 1
+Iter 11 | fb=ack | next: MCS=1 AMPDU=3 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.093e-02, Peak=3.772e-02
+** wrong target packet detected
+new MCS = 1
+arq
+Iter 12 | fb=arq | next: MCS=1 AMPDU=3 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.093e-02, Peak=3.827e-02
+ RXTIME of packet 1: 1364us
+ Databitrate of packet 1: 13.99(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.01dB
+
+  RXTIME of packet 2: 1364us
+ Databitrate of packet 2: 13.99(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.34dB
+
+  DataBitrate (Mbps): 13.99
+ack
+new MCS = 1
+Iter 13 | fb=ack | next: MCS=1 AMPDU=3 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.092e-02, Peak=3.816e-02
+ RXTIME of packet 1: 1364us
+ Databitrate of packet 1: 13.99(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.38dB
+
+  RXTIME of packet 2: 1364us
+ Databitrate of packet 2: 13.99(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.06dB
+
+  DataBitrate (Mbps): 13.99
+ack
+new MCS = 1
+Iter 14 | fb=ack | next: MCS=1 AMPDU=3 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.093e-02, Peak=3.802e-02
+ RXTIME of packet 1: 1364us
+ Databitrate of packet 1: 13.99(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.36dB
+
+  RXTIME of packet 2: 1364us
+ Databitrate of packet 2: 13.99(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.59dB
+
+  DataBitrate (Mbps): 13.99
+ack
+new MCS = 1
+Iter 15 | fb=ack | next: MCS=1 AMPDU=3 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.093e-02, Peak=3.789e-02
+ RXTIME of packet 1: 1364us
+ Databitrate of packet 1: 13.99(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.89dB
+
+  RXTIME of packet 2: 1364us
+ Databitrate of packet 2: 13.99(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.29dB
+
+  DataBitrate (Mbps): 13.99
+ack
+new MCS = 2
+Iter 16 | fb=ack | next: MCS=2 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.127e-02, Peak=3.878e-02
+ RXTIME of packet 1: 932us
+ Databitrate of packet 1: 20.46(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.46dB
+
+  RXTIME of packet 2: 932us
+ Databitrate of packet 2: 20.46(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.68dB
+
+  DataBitrate (Mbps): 20.46
+ack
+new MCS = 2
+Iter 17 | fb=ack | next: MCS=2 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.127e-02, Peak=3.847e-02
+ RXTIME of packet 1: 932us
+ Databitrate of packet 1: 20.46(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.46dB
+
+  RXTIME of packet 2: 932us
+ Databitrate of packet 2: 20.46(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.81dB
+
+  DataBitrate (Mbps): 20.46
+ack
+new MCS = 2
+Iter 18 | fb=ack | next: MCS=2 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.127e-02, Peak=3.877e-02
+ RXTIME of packet 1: 932us
+ Databitrate of packet 1: 20.46(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.66dB
+
+  RXTIME of packet 2: 932us
+ Databitrate of packet 2: 20.46(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.76dB
+
+  DataBitrate (Mbps): 20.46
+ack
+new MCS = 2
+Iter 19 | fb=ack | next: MCS=2 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.127e-02, Peak=3.797e-02
+ RXTIME of packet 1: 932us
+ Databitrate of packet 1: 20.46(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.81dB
+
+  RXTIME of packet 2: 932us
+ Databitrate of packet 2: 20.46(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.39dB
+
+  DataBitrate (Mbps): 20.46
+ack
+new MCS = 2
+Iter 20 | fb=ack | next: MCS=2 AMPDU=5 BWdec=2
+---- Progress 20/100 | current MCS=2 AMPDU=5 BWdec=2 ----
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.127e-02, Peak=3.905e-02
+ RXTIME of packet 1: 932us
+ Databitrate of packet 1: 20.46(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.17dB
+
+  RXTIME of packet 2: 932us
+ Databitrate of packet 2: 20.46(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=14.04dB
+
+  DataBitrate (Mbps): 20.46
+ack
+new MCS = 2
+Iter 21 | fb=ack | next: MCS=2 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.127e-02, Peak=3.902e-02
+ RXTIME of packet 1: 932us
+ Databitrate of packet 1: 20.46(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.54dB
+
+  RXTIME of packet 2: 932us
+ Databitrate of packet 2: 20.46(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.16dB
+
+  DataBitrate (Mbps): 20.46
+ack
+new MCS = 2
+Iter 22 | fb=ack | next: MCS=2 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.127e-02, Peak=3.774e-02
+ RXTIME of packet 1: 932us
+ Databitrate of packet 1: 20.46(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.00dB
+
+  RXTIME of packet 2: 932us
+ Databitrate of packet 2: 20.46(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.28dB
+
+  DataBitrate (Mbps): 20.46
+ack
+new MCS = 2
+Iter 23 | fb=ack | next: MCS=2 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.127e-02, Peak=3.816e-02
+ RXTIME of packet 1: 932us
+ Databitrate of packet 1: 20.46(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.17dB
+
+  RXTIME of packet 2: 932us
+ Databitrate of packet 2: 20.46(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.33dB
+
+  DataBitrate (Mbps): 20.46
+ack
+new MCS = 3
+Iter 24 | fb=ack | next: MCS=3 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.156e-02, Peak=3.800e-02
+ RXTIME of packet 1: 708us
+ Databitrate of packet 1: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.71dB
+
+  RXTIME of packet 2: 708us
+ Databitrate of packet 2: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.92dB
+
+  DataBitrate (Mbps): 27.00
+ack
+new MCS = 2
+Iter 25 | fb=ack | next: MCS=2 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.168e-02, Peak=3.588e-02
+ RXTIME of packet 1: 932us
+ Databitrate of packet 1: 20.46(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.14dB
+
+  RXTIME of packet 2: 932us
+ Databitrate of packet 2: 20.46(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.15dB
+
+  DataBitrate (Mbps): 20.46
+ack
+new MCS = 2
+Iter 26 | fb=ack | next: MCS=2 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.168e-02, Peak=3.555e-02
+ RXTIME of packet 1: 932us
+ Databitrate of packet 1: 20.46(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.20dB
+
+  RXTIME of packet 2: 932us
+ Databitrate of packet 2: 20.46(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.40dB
+
+  DataBitrate (Mbps): 20.46
+ack
+new MCS = 3
+Iter 27 | fb=ack | next: MCS=3 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.138e-02, Peak=3.702e-02
+ RXTIME of packet 1: 708us
+ Databitrate of packet 1: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.32dB
+
+  RXTIME of packet 2: 708us
+ Databitrate of packet 2: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.34dB
+
+  DataBitrate (Mbps): 27.00
+ack
+new MCS = 3
+Iter 28 | fb=ack | next: MCS=3 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.138e-02, Peak=3.699e-02
+ RXTIME of packet 1: 708us
+ Databitrate of packet 1: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.87dB
+
+  RXTIME of packet 2: 708us
+ Databitrate of packet 2: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.41dB
+
+  DataBitrate (Mbps): 27.00
+ack
+new MCS = 3
+Iter 29 | fb=ack | next: MCS=3 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.138e-02, Peak=3.627e-02
+ RXTIME of packet 1: 708us
+ Databitrate of packet 1: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.12dB
+
+  RXTIME of packet 2: 708us
+ Databitrate of packet 2: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.96dB
+
+  DataBitrate (Mbps): 27.00
+ack
+new MCS = 3
+Iter 30 | fb=ack | next: MCS=3 AMPDU=5 BWdec=2
+---- Progress 30/100 | current MCS=3 AMPDU=5 BWdec=2 ----
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.137e-02, Peak=3.664e-02
+ RXTIME of packet 1: 708us
+ Databitrate of packet 1: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.47dB
+
+  RXTIME of packet 2: 708us
+ Databitrate of packet 2: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.44dB
+
+  DataBitrate (Mbps): 27.00
+ack
+new MCS = 3
+Iter 31 | fb=ack | next: MCS=3 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.137e-02, Peak=3.679e-02
+ RXTIME of packet 1: 708us
+ Databitrate of packet 1: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.82dB
+
+  RXTIME of packet 2: 708us
+ Databitrate of packet 2: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.91dB
+
+  DataBitrate (Mbps): 27.00
+ack
+new MCS = 3
+Iter 32 | fb=ack | next: MCS=3 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.138e-02, Peak=3.728e-02
+ RXTIME of packet 1: 708us
+ Databitrate of packet 1: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.34dB
+
+  RXTIME of packet 2: 708us
+ Databitrate of packet 2: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.00dB
+
+  DataBitrate (Mbps): 27.00
+ack
+new MCS = 3
+Iter 33 | fb=ack | next: MCS=3 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.138e-02, Peak=3.699e-02
+ RXTIME of packet 1: 708us
+ Databitrate of packet 1: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.07dB
+
+  RXTIME of packet 2: 708us
+ Databitrate of packet 2: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.39dB
+
+  DataBitrate (Mbps): 27.00
+ack
+new MCS = 3
+Iter 34 | fb=ack | next: MCS=3 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.138e-02, Peak=3.650e-02
+ RXTIME of packet 1: 708us
+ Databitrate of packet 1: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.71dB
+
+  RXTIME of packet 2: 708us
+ Databitrate of packet 2: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.65dB
+
+  DataBitrate (Mbps): 27.00
+ack
+new MCS = 3
+Iter 35 | fb=ack | next: MCS=3 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.138e-02, Peak=3.706e-02
+ RXTIME of packet 1: 708us
+ Databitrate of packet 1: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.23dB
+
+  RXTIME of packet 2: 708us
+ Databitrate of packet 2: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.97dB
+
+  DataBitrate (Mbps): 27.00
+ack
+new MCS = 3
+Iter 36 | fb=ack | next: MCS=3 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.138e-02, Peak=3.674e-02
+ RXTIME of packet 1: 708us
+ Databitrate of packet 1: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.79dB
+
+  RXTIME of packet 2: 708us
+ Databitrate of packet 2: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.40dB
+
+  DataBitrate (Mbps): 27.00
+ack
+new MCS = 3
+Iter 37 | fb=ack | next: MCS=3 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.138e-02, Peak=3.637e-02
+ RXTIME of packet 1: 708us
+ Databitrate of packet 1: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.24dB
+
+  RXTIME of packet 2: 708us
+ Databitrate of packet 2: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.97dB
+
+  DataBitrate (Mbps): 27.00
+ack
+new MCS = 3
+Iter 38 | fb=ack | next: MCS=3 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.138e-02, Peak=3.695e-02
+ RXTIME of packet 1: 708us
+ Databitrate of packet 1: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.55dB
+
+  RXTIME of packet 2: 708us
+ Databitrate of packet 2: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.73dB
+
+  DataBitrate (Mbps): 27.00
+ack
+new MCS = 3
+Iter 39 | fb=ack | next: MCS=3 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.137e-02, Peak=3.737e-02
+ RXTIME of packet 1: 708us
+ Databitrate of packet 1: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.79dB
+
+  RXTIME of packet 2: 708us
+ Databitrate of packet 2: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.07dB
+
+  DataBitrate (Mbps): 27.00
+ack
+new MCS = 3
+Iter 40 | fb=ack | next: MCS=3 AMPDU=5 BWdec=2
+---- Progress 40/100 | current MCS=3 AMPDU=5 BWdec=2 ----
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.138e-02, Peak=3.702e-02
+ RXTIME of packet 1: 708us
+ Databitrate of packet 1: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.18dB
+
+  RXTIME of packet 2: 708us
+ Databitrate of packet 2: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.06dB
+
+  DataBitrate (Mbps): 27.00
+ack
+new MCS = 3
+Iter 41 | fb=ack | next: MCS=3 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.138e-02, Peak=3.746e-02
+ RXTIME of packet 1: 708us
+ Databitrate of packet 1: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.12dB
+
+  RXTIME of packet 2: 708us
+ Databitrate of packet 2: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.92dB
+
+  DataBitrate (Mbps): 27.00
+ack
+new MCS = 3
+Iter 42 | fb=ack | next: MCS=3 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.138e-02, Peak=3.675e-02
+ RXTIME of packet 1: 708us
+ Databitrate of packet 1: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.88dB
+
+  RXTIME of packet 2: 708us
+ Databitrate of packet 2: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.89dB
+
+  DataBitrate (Mbps): 27.00
+ack
+new MCS = 3
+Iter 43 | fb=ack | next: MCS=3 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.138e-02, Peak=3.690e-02
+ RXTIME of packet 1: 708us
+ Databitrate of packet 1: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.94dB
+
+  RXTIME of packet 2: 708us
+ Databitrate of packet 2: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.15dB
+
+  DataBitrate (Mbps): 27.00
+ack
+new MCS = 3
+Iter 44 | fb=ack | next: MCS=3 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.138e-02, Peak=3.672e-02
+ RXTIME of packet 1: 708us
+ Databitrate of packet 1: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.30dB
+
+  RXTIME of packet 2: 708us
+ Databitrate of packet 2: 27.00(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.75dB
+
+  DataBitrate (Mbps): 27.00
+ack
+new MCS = 4
+Iter 45 | fb=ack | next: MCS=4 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.106e-02, Peak=3.710e-02
+ RXTIME of packet 1: 500us
+ Databitrate of packet 1: 38.07(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.65dB
+
+  RXTIME of packet 2: 500us
+ Databitrate of packet 2: 38.07(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=14.06dB
+
+  DataBitrate (Mbps): 38.07
+ack
+new MCS = 4
+Iter 46 | fb=ack | next: MCS=4 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.106e-02, Peak=3.819e-02
+ RXTIME of packet 1: 500us
+ Databitrate of packet 1: 38.07(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.62dB
+
+  RXTIME of packet 2: 500us
+ Databitrate of packet 2: 38.07(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.72dB
+
+  DataBitrate (Mbps): 38.07
+ack
+new MCS = 4
+Iter 47 | fb=ack | next: MCS=4 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.106e-02, Peak=3.724e-02
+ RXTIME of packet 1: 500us
+ Databitrate of packet 1: 38.07(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=14.29dB
+
+  RXTIME of packet 2: 500us
+ Databitrate of packet 2: 38.07(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=14.44dB
+
+  DataBitrate (Mbps): 38.07
+ack
+new MCS = 4
+Iter 48 | fb=ack | next: MCS=4 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.107e-02, Peak=3.789e-02
+ RXTIME of packet 1: 500us
+ Databitrate of packet 1: 38.07(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.76dB
+
+  RXTIME of packet 2: 500us
+ Databitrate of packet 2: 38.07(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.60dB
+
+  DataBitrate (Mbps): 38.07
+ack
+new MCS = 4
+Iter 49 | fb=ack | next: MCS=4 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.106e-02, Peak=3.755e-02
+ RXTIME of packet 1: 500us
+ Databitrate of packet 1: 38.07(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=14.49dB
+
+  RXTIME of packet 2: 500us
+ Databitrate of packet 2: 38.07(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.72dB
+
+  DataBitrate (Mbps): 38.07
+ack
+new MCS = 5
+Iter 50 | fb=ack | next: MCS=5 AMPDU=5 BWdec=2
+---- Progress 50/100 | current MCS=5 AMPDU=5 BWdec=2 ----
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.306e-02, Peak=3.635e-02
+ RXTIME of packet 1: 388us
+ Databitrate of packet 1: 49.19(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=13.80dB
+
+ new MCS = 4
+arq
+Iter 51 | fb=arq | next: MCS=4 AMPDU=5 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.162e-02, Peak=4.227e-02
+ RXTIME of packet 1: 500us
+ Databitrate of packet 1: 38.07(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.69dB
+
+  RXTIME of packet 2: 500us
+ Databitrate of packet 2: 38.07(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=7.77dB
+
+ new MCS = 3
+arq
+Iter 52 | fb=arq | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.251e-02, Peak=4.026e-02
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=14.66dB
+
+  RXTIME of packet 2: 708us
+ Databitrate of packet 2: 26.51(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.97dB
+
+  RXTIME of packet 3: 84us
+ Databitrate of packet 3: 5.21(Mbps)
+  A-MPDU deaggregation unsuccessful 
+new MCS = 3
+arq
+Iter 53 | fb=arq | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.251e-02, Peak=4.061e-02
+[警告: The L-SIG check failed.] 
+[> 位置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('coder.internal.warning', 'C:\Users\welcome\Desktop\R2025b\toolbox\shared\coder\coder\lib\+coder\+internal\warning.m', 8)" style="font-weight:bold">coder.internal.warning</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\R2025b\toolbox\shared\coder\coder\lib\+coder\+internal\warning.m',8,0)">第 8 行</a>)
+位置: <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('wlanFormatDetect', 'C:\Users\welcome\Desktop\R2025b\toolbox\wlan\wlan\wlanFormatDetect.m', 250)" style="font-weight:bold">wlanFormatDetect</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\R2025b\toolbox\wlan\wlan\wlanFormatDetect.m',250,0)">第 250 行</a>)
+位置: <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('HEWLANDataRecovery', 'C:\Users\welcome\Desktop\Experimental-Guide-of-Deployment-friendly-RLLA-main copy\Experimental-Guide-of-Deployment-friendly-RLLA-main\X410_CombinedTxRx copy\HEWLANDataRecovery.m', 135)" style="font-weight:bold">HEWLANDataRecovery</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\Experimental-Guide-of-Deployment-friendly-RLLA-main copy\Experimental-Guide-of-Deployment-friendly-RLLA-main\X410_CombinedTxRx copy\HEWLANDataRecovery.m',135,0)">第 135 行</a>)
+位置: <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('X410_runSingleHost_DualRole_AARF', 'C:\Users\welcome\Desktop\Experimental-Guide-of-Deployment-friendly-RLLA-main copy\Experimental-Guide-of-Deployment-friendly-RLLA-main\X410_CombinedTxRx copy\X410_runSingleHost_DualRole_AARF.m', 255)" style="font-weight:bold">X410_runSingleHost_DualRole_AARF</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\Experimental-Guide-of-Deployment-friendly-RLLA-main copy\Experimental-Guide-of-Deployment-friendly-RLLA-main\X410_CombinedTxRx copy\X410_runSingleHost_DualRole_AARF.m',255,0)">第 255 行</a>)
+位置: <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('run', 'C:\Users\welcome\Desktop\R2025b\toolbox\matlab\lang\run.m', 112)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\R2025b\toolbox\matlab\lang\run.m',112,0)">第 112 行</a>)
+位置: <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('runX410AllAlgorithms', 'C:\Users\welcome\Desktop\Experimental-Guide-of-Deployment-friendly-RLLA-main copy\Experimental-Guide-of-Deployment-friendly-RLLA-main\X410_CombinedTxRx copy\runX410AllAlgorithms.m', 35)" style="font-weight:bold">runX410AllAlgorithms</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\Experimental-Guide-of-Deployment-friendly-RLLA-main copy\Experimental-Guide-of-Deployment-friendly-RLLA-main\X410_CombinedTxRx copy\runX410AllAlgorithms.m',35,0)">第 35 行</a>)
+位置: <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('run', 'C:\Users\welcome\Desktop\R2025b\toolbox\matlab\lang\run.m', 112)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('C:\Users\welcome\Desktop\R2025b\toolbox\matlab\lang\run.m',112,0)">第 112 行</a>)] 
+** wrong target packet detected
+new MCS = 3
+arq
+Iter 54 | fb=arq | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.251e-02, Peak=4.054e-02
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.77dB
+
+  RXTIME of packet 2: 708us
+ Databitrate of packet 2: 26.51(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=14.03dB
+
+  RXTIME of packet 3: 84us
+ Databitrate of packet 3: 5.21(Mbps)
+  A-MPDU deaggregation unsuccessful 
+new MCS = 3
+arq
+Iter 55 | fb=arq | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.251e-02, Peak=4.001e-02
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.63dB
+
+  RXTIME of packet 2: 708us
+ Databitrate of packet 2: 26.51(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.81dB
+
+  RXTIME of packet 3: 84us
+ Databitrate of packet 3: 5.21(Mbps)
+  A-MPDU deaggregation unsuccessful 
+new MCS = 3
+arq
+Iter 56 | fb=arq | next: MCS=3 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.251e-02, Peak=4.000e-02
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 5.21(Mbps)
+  A-MPDU deaggregation unsuccessful 
+new MCS = 0
+arq
+Iter 57 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.062e-02, Peak=3.943e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.40dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=10.77dB
+
+ new MCS = 2
+arq
+Iter 58 | fb=arq | next: MCS=2 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.070e-02, Peak=3.641e-02
+ RXTIME of packet 1: 84us
+ Databitrate of packet 1: 4.93(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=15.54dB
+
+  RXTIME of packet 2: 916us
+ Databitrate of packet 2: 20.44(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.14dB
+
+  RXTIME of packet 3: 84us
+ Databitrate of packet 3: 4.93(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.66dB
+
+  DataBitrate (Mbps): 10.10
+ack
+new MCS = 2
+Iter 59 | fb=ack | next: MCS=2 AMPDU=4 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.190e-02, Peak=4.012e-02
+ RXTIME of packet 1: 932us
+ Databitrate of packet 1: 20.46(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.46dB
+
+  RXTIME of packet 2: 932us
+ Databitrate of packet 2: 20.46(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=10.14dB
+
+ new MCS = 1
+arq
+Iter 60 | fb=arq | next: MCS=1 AMPDU=2 BWdec=2
+---- Progress 60/100 | current MCS=1 AMPDU=2 BWdec=2 ----
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=1.120e-02, Peak=3.765e-02
+ RXTIME of packet 1: 1364us
+ Databitrate of packet 1: 13.99(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.27dB
+
+  RXTIME of packet 2: 1364us
+ Databitrate of packet 2: 13.99(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.41dB
+
+  DataBitrate (Mbps): 13.99
+ack
+new MCS = 0
+Iter 61 | fb=ack | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.192e-03, Peak=3.438e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.54dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.05dB
+
+ new MCS = 0
+arq
+Iter 62 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.191e-03, Peak=3.436e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.44dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.40dB
+
+ new MCS = 0
+arq
+Iter 63 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.192e-03, Peak=3.418e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.65dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.12dB
+
+ new MCS = 0
+arq
+Iter 64 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.196e-03, Peak=3.316e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.26dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.09dB
+
+ new MCS = 0
+arq
+Iter 65 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.190e-03, Peak=3.435e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.23dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=10.72dB
+
+ new MCS = 0
+arq
+Iter 66 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.193e-03, Peak=3.408e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.29dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.71dB
+
+ new MCS = 0
+arq
+Iter 67 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.195e-03, Peak=3.338e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.25dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.87dB
+
+ new MCS = 0
+arq
+Iter 68 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.190e-03, Peak=3.393e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.48dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.17dB
+
+ new MCS = 0
+arq
+Iter 69 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.192e-03, Peak=3.425e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.28dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.17dB
+
+ new MCS = 0
+arq
+Iter 70 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+---- Progress 70/100 | current MCS=0 AMPDU=1 BWdec=2 ----
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.187e-03, Peak=3.404e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=14.31dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.22dB
+
+ new MCS = 0
+arq
+Iter 71 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.187e-03, Peak=3.440e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=11.93dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.98dB
+
+ new MCS = 0
+arq
+Iter 72 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.187e-03, Peak=3.391e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.90dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.52dB
+
+ new MCS = 0
+arq
+Iter 73 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.204e-03, Peak=3.459e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.61dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.15dB
+
+ new MCS = 0
+arq
+Iter 74 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.189e-03, Peak=3.527e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.17dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.27dB
+
+ new MCS = 0
+arq
+Iter 75 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.191e-03, Peak=3.369e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.27dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.82dB
+
+ new MCS = 0
+arq
+Iter 76 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.190e-03, Peak=3.321e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.10dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.18dB
+
+ new MCS = 0
+arq
+Iter 77 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.200e-03, Peak=3.364e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.02dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.06dB
+
+ new MCS = 0
+arq
+Iter 78 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.189e-03, Peak=3.476e-02
+ RXTIME of packet 1: 2628us
+ Databitrate of packet 1: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.62dB
+
+ new MCS = 0
+arq
+Iter 79 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.192e-03, Peak=3.483e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.69dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.44dB
+
+ new MCS = 0
+arq
+Iter 80 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+---- Progress 80/100 | current MCS=0 AMPDU=1 BWdec=2 ----
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.188e-03, Peak=3.425e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.01dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.41dB
+
+ new MCS = 0
+arq
+Iter 81 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.184e-03, Peak=3.484e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.80dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.53dB
+
+ new MCS = 0
+arq
+Iter 82 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.192e-03, Peak=3.335e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=11.36dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.40dB
+
+ new MCS = 0
+arq
+Iter 83 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.190e-03, Peak=3.327e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.96dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.15dB
+
+ new MCS = 0
+arq
+Iter 84 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.188e-03, Peak=3.255e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.40dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.51dB
+
+ new MCS = 0
+arq
+Iter 85 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.190e-03, Peak=3.477e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.18dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.00dB
+
+ new MCS = 0
+arq
+Iter 86 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.189e-03, Peak=3.313e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=14.69dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.34dB
+
+ new MCS = 0
+arq
+Iter 87 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.193e-03, Peak=3.288e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.42dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.49dB
+
+ new MCS = 0
+arq
+Iter 88 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.182e-03, Peak=3.435e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.18dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.54dB
+
+ new MCS = 0
+arq
+Iter 89 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.187e-03, Peak=3.427e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.74dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.47dB
+
+ new MCS = 0
+arq
+Iter 90 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+---- Progress 90/100 | current MCS=0 AMPDU=1 BWdec=2 ----
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.187e-03, Peak=3.424e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=14.66dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.28dB
+
+ new MCS = 0
+arq
+Iter 91 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.187e-03, Peak=3.409e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.81dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=10.59dB
+
+ new MCS = 0
+arq
+Iter 92 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.186e-03, Peak=3.385e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.27dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.10dB
+
+ new MCS = 0
+arq
+Iter 93 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.186e-03, Peak=3.355e-02
+ RXTIME of packet 1: 2628us
+ Databitrate of packet 1: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.20dB
+
+ new MCS = 0
+arq
+Iter 94 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.185e-03, Peak=3.479e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.32dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.85dB
+
+ new MCS = 0
+arq
+Iter 95 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.185e-03, Peak=3.286e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.22dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=11.89dB
+
+ new MCS = 0
+arq
+Iter 96 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.188e-03, Peak=3.422e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=13.03dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=10.89dB
+
+ new MCS = 0
+arq
+Iter 97 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.189e-03, Peak=3.259e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.95dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=12.12dB
+
+ new MCS = 0
+arq
+Iter 98 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.181e-03, Peak=3.430e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=11.98dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=10.97dB
+
+ new MCS = 0
+arq
+Iter 99 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+  Gains: TX=0 dB, RX=45 dB | RX diag: RMS=9.184e-03, Peak=3.463e-02
+ RXTIME of packet 1: 116us
+ Databitrate of packet 1: 3.32(Mbps)
+  A-MPDU deaggregation successful 
+SNRest=12.70dB
+
+  RXTIME of packet 2: 2628us
+ Databitrate of packet 2: 7.12(Mbps)
+  A-MPDU deaggregation successful 
+  FCS fail for MPDU:1
+SNRest=10.99dB
+
+ new MCS = 0
+arq
+Iter 100 | fb=arq | next: MCS=0 AMPDU=1 BWdec=2
+---- Progress 100/100 | current MCS=0 AMPDU=1 BWdec=2 ----
+Done.
+Stats | fallback=0 (0.0%), realDecode=98 (98.0%), qUpdate=0
+Final state | MCS=0 AMPDU=1 BWdec=2 lastSNR=11.84 dB

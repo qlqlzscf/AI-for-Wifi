@@ -8,7 +8,6 @@
 - `EVM per-sym` 大多在 `-28 ~ -33 dB`
 - `EVM per-sc` 大多在 `-30 ~ -34 dB`
 - 成功包可稳定解到 `MCS=10~11`
-
 但仍存在两类不稳定现象：
 
 1. `No packet detected(UN)`

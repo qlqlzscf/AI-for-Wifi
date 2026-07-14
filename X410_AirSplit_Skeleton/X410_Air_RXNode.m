@@ -35,7 +35,7 @@ qtableAvailable = false;
 qtableMode = "none";
 beta1Grid = 0.2:0.1:0.8;
 beta2Grid = 1.2:0.1:2.4;
-actVals = [-0.1; 0; 0.1];
+actVals = [-0.2; 0; 0.2];
 runtimeBetaWindow = 25;
 
 qtableFile = fullfile(cfg.enhancedCoreDir, "Qtable_X410.mat");
@@ -48,15 +48,13 @@ if exist(qtableFile, "file")
         if isfield(qtab, "beta2Grid"), beta2Grid = qtab.beta2Grid; end
         if isfield(qtab, "actionSpace"), actVals = qtab.actionSpace; end
         if isfield(qtab, "WQLearning"), runtimeBetaWindow = qtab.WQLearning; end
-        if isfield(qtab, "qtableMode")
-            qtableMode = string(qtab.qtableMode);
-        elseif size(Qtable_beta1, 2) == numel(beta1Grid) && size(Qtable_beta2, 2) == numel(beta2Grid)
+        if size(Qtable_beta1, 2) == numel(beta1Grid) && size(Qtable_beta2, 2) == numel(beta2Grid)
             qtableMode = "beta-state";
-        elseif size(Qtable_beta1, 2) == 12 && size(Qtable_beta2, 2) == 12
-            qtableMode = "per-state";
+            qtableAvailable = true;
+            fprintf("Loaded Q-tables (%s) from: %s\n", qtableMode, qtableFile);
+        else
+            fprintf("Ignoring non beta-state Q-table: %s\n", qtableFile);
         end
-        qtableAvailable = true;
-        fprintf("Loaded Q-tables (%s) from: %s\n", qtableMode, qtableFile);
     else
         fprintf("Q-table file exists but required variables are missing: %s\n", qtableFile);
     end
@@ -203,20 +201,12 @@ for n = 1:cfg.N
                 qLearningUpdateCount = qLearningUpdateCount + 1;
             end
             if qtableAvailable && ctlinfoAlg ~= 0 && mod(qLearningUpdateCount, runtimeBetaWindow) == 0
-                if qtableMode == "beta-state"
-                    state1 = localBetaState(beta1, beta1Grid);
-                    state2 = localBetaState(beta2, beta2Grid);
-                    r1 = localSelectQAction(Qtable_beta1, state1, cfg.explorationEpsilon);
-                    r2 = localSelectQAction(Qtable_beta2, state2, cfg.explorationEpsilon);
-                    [beta1, ~] = localApplyBetaAction(beta1, actVals(r1), beta1Grid);
-                    [beta2, ~] = localApplyBetaAction(beta2, actVals(r2), beta2Grid);
-                elseif qtableMode == "per-state"
-                    perState = localComputePERState(ctlinfoList, 25);
-                    r1 = localSelectQAction(Qtable_beta1, perState, cfg.explorationEpsilon);
-                    r2 = localSelectQAction(Qtable_beta2, perState, cfg.explorationEpsilon);
-                    beta1 = max(0.2, min(0.8, round((actVals(r1) + beta1)*10)/10));
-                    beta2 = max(1.2, min(2.4, round((actVals(r2) + beta2)*10)/10));
-                end
+                state1 = localBetaState(beta1, beta1Grid);
+                state2 = localBetaState(beta2, beta2Grid);
+                r1 = localSelectQAction(Qtable_beta1, state1, cfg.explorationEpsilon);
+                r2 = localSelectQAction(Qtable_beta2, state2, cfg.explorationEpsilon);
+                [beta1, ~] = localApplyBetaAction(beta1, actVals(r1), beta1Grid);
+                [beta2, ~] = localApplyBetaAction(beta2, actVals(r2), beta2Grid);
             end
         otherwise
             error("Unsupported algorithmMode: %s", cfg.algorithmMode);
@@ -330,40 +320,6 @@ for k = 1:numel(names)
 end
 end
 
-function stateIdx = localComputePERState(ctlinfoList, windowSize)
-if length(ctlinfoList) < windowSize
-    stateIdx = 6;
-    return;
-end
-recent = ctlinfoList(end-windowSize+1:end);
-PER = localWeightedPER(recent);
-
-if PER <= 0.01
-    level = 1;
-elseif PER <= 0.05
-    level = 2;
-elseif PER <= 0.15
-    level = 3;
-else
-    level = 4;
-end
-
-half = floor(windowSize/2);
-oldPER = localWeightedPER(recent(1:half));
-newPER = localWeightedPER(recent(end-half+1:end));
-delta = newPER - oldPER;
-
-if delta < -0.02
-    trend = 1;
-elseif delta > 0.02
-    trend = 3;
-else
-    trend = 2;
-end
-
-stateIdx = (level-1)*3 + trend;
-end
-
 function stateIdx = localBetaState(betaVal, betaGrid)
 [~, stateIdx] = min(abs(betaGrid - betaVal));
 end
@@ -384,8 +340,4 @@ stateValues = Qtable(:, stateIdx);
 maxVal = max(stateValues);
 candidates = find(stateValues == maxVal);
 row = candidates(randi(numel(candidates)));
-end
-
-function per = localWeightedPER(values)
-per = sum(values == 2) / max(1, length(values));
 end

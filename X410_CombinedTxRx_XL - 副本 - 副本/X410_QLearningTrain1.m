@@ -109,7 +109,7 @@ qtableMode = "beta-state";
 % Paper-aligned state: each Q-table uses its own beta value as the state.
 beta1Grid = 0.2:0.1:0.8;
 beta2Grid = 1.2:0.1:2.4;
-actionSpace = [-0.1; 0; 0.1];
+actionSpace = [-0.2; 0; 0.2];
 numActions = numel(actionSpace);
 Qtable_beta1 = zeros(numActions, numel(beta1Grid));
 Qtable_beta2 = zeros(numActions, numel(beta2Grid));
@@ -526,28 +526,6 @@ for i = 1:nPkts
 end
 TdataSumSec = sum(TdataSec) + nPkts * TprotocolSec;
 if TdataSumSec > 0, reward = Nbyte / TdataSumSec; else, reward = 0; end
-end
-
-function label = stateLabel(stateIdx)
-levels = {'vLo','Lo','Med','Hi'};
-trends = {'+imp','=stb','-wrs'};
-level = floor((stateIdx-1)/3) + 1;
-trend = mod(stateIdx-1, 3) + 1;
-label = [levels{level} trends{trend}];
-end
-
-function stateIdx = computePERState(ctlinfoList, windowSize)
-if length(ctlinfoList) < windowSize, stateIdx = 6; return; end
-recent = ctlinfoList(end-windowSize+1:end);
-PER = sum(recent == 2) / length(recent);
-if PER <= 0.01, level = 1; elseif PER <= 0.05, level = 2;
-elseif PER <= 0.15, level = 3; else, level = 4; end
-half = floor(windowSize/2);
-oldPER = sum(recent(1:half) == 2) / half;
-newPER = sum(recent(end-half+1:end) == 2) / half;
-delta = newPER - oldPER;
-if delta < -0.02, trend = 1; elseif delta > 0.02, trend = 3; else, trend = 2; end
-stateIdx = (level-1)*3 + trend;
 end
 
 function stateIdx = localBetaState(betaVal, betaGrid)

@@ -123,7 +123,7 @@ qtableMode = "beta-state";
 % Existing MCSdef1104QLearning uses beta1 in [0.2,0.8] and beta2 in [1.2,2.4].
 beta1Grid = 0.2:0.1:0.8;
 beta2Grid = 1.2:0.1:2.4;
-actionSpace = [-0.1; 0; 0.1];
+actionSpace = [-0.2; 0; 0.2];
 numActions = numel(actionSpace);
 Qtable_beta1 = zeros(numActions, numel(beta1Grid));
 Qtable_beta2 = zeros(numActions, numel(beta2Grid));
@@ -611,53 +611,6 @@ if TdataSumSec > 0
 else
     reward = 0;
 end
-end
-
-function label = stateLabel(stateIdx)
-% Convert state index to human-readable label
-levels = {'vLo','Lo','Med','Hi'};
-trends = {'+imp','=stb','-wrs'};
-level = floor((stateIdx-1)/3) + 1;
-trend = mod(stateIdx-1, 3) + 1;
-label = [levels{level} trends{trend}];
-end
-
-function stateIdx = computePERState(ctlinfoList, windowSize)
-% Compute PER-based state index
-% stateIdx = (PER_level-1)*3 + trend, range 1..12
-if length(ctlinfoList) < windowSize
-    stateIdx = 6;  % default: medium PER, stable
-    return;
-end
-recent = ctlinfoList(end-windowSize+1:end);
-PER = sum(recent == 2) / length(recent);  % 2 = ARQ/failure
-
-% PER level
-if PER <= 0.01
-    level = 1;  % very low
-elseif PER <= 0.05
-    level = 2;  % low
-elseif PER <= 0.15
-    level = 3;  % medium
-else
-    level = 4;  % high
-end
-
-% Trend
-half = floor(windowSize/2);
-oldPER = sum(recent(1:half) == 2) / half;
-newPER = sum(recent(end-half+1:end) == 2) / half;
-delta = newPER - oldPER;
-
-if delta < -0.02
-    trend = 1;  % improving
-elseif delta > 0.02
-    trend = 3;  % worsening
-else
-    trend = 2;  % stable
-end
-
-stateIdx = (level-1)*3 + trend;
 end
 
 function stateIdx = localBetaState(betaVal, betaGrid)
